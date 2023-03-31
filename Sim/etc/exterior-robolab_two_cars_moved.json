@@ -1,0 +1,5475 @@
+{
+    "DSRModel": {
+        "symbols": {
+            "1": {
+                "attribute": {
+                    "OuterRegionBottom": {
+                        "type": 1,
+                        "value": 45000
+                    },
+                    "OuterRegionLeft": {
+                        "type": 1,
+                        "value": -25000
+                    },
+                    "OuterRegionRight": {
+                        "type": 1,
+                        "value": 25000
+                    },
+                    "OuterRegionTop": {
+                        "type": 1,
+                        "value": -45000
+                    },
+                    "color": {
+                        "type": 0,
+                        "value": "SeaGreen"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "0"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -518.118042
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -105.922897
+                    }
+                },
+                "id": "1",
+                "links": [
+                    {
+                        "dst": "2",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    3875,
+                                    0,
+                                    -200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "3",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    -3655,
+                                    -6075.10009765625,
+                                    50
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "4",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    8737,
+                                    15869.5986328125,
+                                    50
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "5",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    -1.5708205699920654
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    2516,
+                                    -42020.19921875,
+                                    50
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "6",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    -1.5707976818084717
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    4884,
+                                    -30734.900390625,
+                                    250
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "7",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    1032.699951171875,
+                                    -7700,
+                                    250
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "8",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    8737,
+                                    -7700,
+                                    250
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "9",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    -1.5707963705062866
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    4884.2998046875,
+                                    15005.7998046875,
+                                    250
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "10",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0.6981310248374939
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    1883.4990234375,
+                                    -29738.4921875,
+                                    250
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "11",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    -0.6981312036514282
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    7959.90478515625,
+                                    -29788.490234375,
+                                    250
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "12",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    -0.7504909038543701
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    1852.4000244140625,
+                                    14092.4013671875,
+                                    250
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "13",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    8737,
+                                    28553.30078125,
+                                    250
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "14",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    1096.199951171875,
+                                    28554.001953125,
+                                    250
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "15",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    1.570796012878418
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    4878.19921875,
+                                    23741.005859375,
+                                    250
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "16",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    1.570796012878418
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    4880.89208984375,
+                                    33592.00390625,
+                                    250
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "17",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0.811577320098877
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    1860.60302734375,
+                                    24602.103515625,
+                                    250
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "18",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    -0.811577320098877
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    7840.59912109375,
+                                    24552.099609375,
+                                    250
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "19",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    -0.663224458694458
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    1837,
+                                    32634.998046875,
+                                    250
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "20",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0.663224458694458
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    7989.7001953125,
+                                    32671.001953125,
+                                    250
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "21",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    19451.099609375,
+                                    19302.697265625,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "22",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    16455.998046875,
+                                    -23976.900390625,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "23",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    19407,
+                                    -34828,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "24",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    16438.6015625,
+                                    -39259.99609375,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "25",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    1.5708205699920654
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    17983.298828125,
+                                    -36592.8984375,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "26",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    1.570796012878418
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    18006.30078125,
+                                    -33062.80078125,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "27",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    1.5708205699920654
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    20013,
+                                    -42102,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "28",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    1.5707963705062866
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    15581.7001953125,
+                                    -14741.099609375,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "29",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    1.5707980394363403
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    17174.400390625,
+                                    22428.30078125,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "30",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    1.5707974433898926
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    17079.201171875,
+                                    16165.7998046875,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "31",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    1.5708205699920654
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    17319.5,
+                                    35060.6015625,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "32",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    1.5708205699920654
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    -11839,
+                                    -41956,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "33",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    -8188.60009765625,
+                                    -39242.40234375,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "34",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    1.5708205699920654
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    -9738.7998046875,
+                                    -36575.5,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "35",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    1.5708205699920654
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    -9675.7998046875,
+                                    -32992.5,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "36",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    -11162.099609375,
+                                    -34784,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "37",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    -8125,
+                                    -23836.80078125,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "38",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    1.5708205699920654
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    -7094.40087890625,
+                                    -14539.5,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "39",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    -6095.89990234375,
+                                    -2117.89990234375,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "40",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    1.5708205699920654
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    -8666,
+                                    10303.7001953125,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "41",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    -11104.900390625,
+                                    13466,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "42",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    1.5708205699920654
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    -8649.7998046875,
+                                    16628.201171875,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "43",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    -6063.5,
+                                    22897.19921875,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "44",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    1.5708205699920654
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    -8650.7998046875,
+                                    29165.30078125,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "45",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    8737,
+                                    22259.6015625,
+                                    50
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "46",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    14911.5,
+                                    28847.19921875,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "47",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    14555.9921875,
+                                    723.4400024414062,
+                                    1200
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "48",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0.7679440975189209
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    7917.39990234375,
+                                    14142.40234375,
+                                    250
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "49",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    3.1415884494781494
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    8737,
+                                    -35320.203125,
+                                    50
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "50",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    -1.5707976818084717
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    -5955,
+                                    -41974.99609375,
+                                    50
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "51",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    -1.5707976818084717
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    -4855,
+                                    29825.00390625,
+                                    50
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "200",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    -6.283181190490723
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    4694.7587890625,
+                                    -31108.892578125,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "300",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    -6.283181190490723
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    4694.7587890625,
+                                    -31108.892578125,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    },
+                    {
+                        "dst": "79792342558572564",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    1.570796012878418
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    14640,
+                                    14790,
+                                    1540
+                                ]
+                            }
+                        },
+                        "src": "1"
+                    }
+                ],
+                "name": "world",
+                "type": "world"
+            },
+            "10": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 500
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 2634
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 95
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 59
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#ffffff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "10",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm6",
+                "type": "plane"
+            },
+            "1000": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Magenta"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 2
+                    },
+                    "mass": {
+                        "type": 1,
+                        "value": 2
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "200"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -1149.370972
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -818.418396
+                    },
+                    "task_assigned": {
+                        "type": 4,
+                        "value": false
+                    },
+                    "task_car": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "task_completed": {
+                        "type": 4,
+                        "value": false
+                    },
+                    "task_movement": {
+                        "type": 4,
+                        "value": false
+                    },
+                    "task_x_value": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "task_y_value": {
+                        "type": 1,
+                        "value": 0
+                    }
+                },
+                "id": "1000",
+                "links": [
+                ],
+                "name": "mind_1",
+                "type": "transform"
+            },
+            "1001": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Magenta"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 2
+                    },
+                    "mass": {
+                        "type": 1,
+                        "value": 2
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "200"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 384.456116
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -595.185913
+                    },
+                    "task_assigned": {
+                        "type": 4,
+                        "value": false
+                    },
+                    "task_car": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "task_completed": {
+                        "type": 4,
+                        "value": false
+                    },
+                    "task_movement": {
+                        "type": 4,
+                        "value": false
+                    },
+                    "task_x_value": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "task_y_value": {
+                        "type": 1,
+                        "value": 0
+                    }
+                },
+                "id": "1001",
+                "links": [
+                ],
+                "name": "mind_2",
+                "type": "transform"
+            },
+            "11": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 500
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 2634
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 106
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -74
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#ffffff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "11",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm7",
+                "type": "plane"
+            },
+            "12": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 500
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 2392
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -183
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -8
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "12",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm8",
+                "type": "plane"
+            },
+            "13": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 500
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 6411
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 157
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -171
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "13",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm10",
+                "type": "plane"
+            },
+            "14": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 500
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 6411
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -62
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 166
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "14",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm11",
+                "type": "plane"
+            },
+            "15": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 500
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 4277
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 57
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -56
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "15",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm12",
+                "type": "plane"
+            },
+            "16": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 500
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 4689
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -103
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -76
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "16",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm13",
+                "type": "plane"
+            },
+            "17": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 500
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 2460
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 7
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 103
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "17",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm14",
+                "type": "plane"
+            },
+            "18": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 500
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 2460
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -102
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -93
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "18",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm15",
+                "type": "plane"
+            },
+            "19": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 500
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 2518
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -80
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 69
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "19",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm16",
+                "type": "plane"
+            },
+            "2": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 100000
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -180
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -97
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#999999"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 50000
+                    }
+                },
+                "id": "2",
+                "links": [
+                ],
+                "name": "floor",
+                "type": "plane"
+            },
+            "20": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 500
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 2525
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 45
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "20",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm17",
+                "type": "plane"
+            },
+            "200": {
+                "attribute": {
+                    "base_target_x": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "base_target_y": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "color": {
+                        "type": 0,
+                        "value": "Blue"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "port": {
+                        "type": 1,
+                        "value": 10000
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -984.81311
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -726.480957
+                    },
+                    "ref_adv_speed": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "ref_rot_speed": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "ref_side_speed": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "robot_local_linear_velocity": {
+                        "type": 3,
+                        "value": [
+                            2.574920415878296,
+                            -0.038136374205350876,
+                            -6.283181190490723
+                        ]
+                    },
+                    "robot_occupied": {
+                        "type": 4,
+                        "value": false
+                    }
+                },
+                "id": "200",
+                "links": [
+                    {
+                        "dst": "220",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    -200,
+                                    200
+                                ]
+                            }
+                        },
+                        "src": "200"
+                    },
+                    {
+                        "dst": "221",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    400
+                                ]
+                            }
+                        },
+                        "src": "200"
+                    },
+                    {
+                        "dst": "230",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    350
+                                ]
+                            }
+                        },
+                        "src": "200"
+                    },
+                    {
+                        "dst": "1000",
+                        "label": "has",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "200"
+                    },
+                    {
+                        "dst": "56627231765561364",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "200"
+                    },
+                    {
+                        "dst": "57749776749297684",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "200"
+                    },
+                    {
+                        "dst": "58778096542679060",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "200"
+                    },
+                    {
+                        "dst": "58778131338625044",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "200"
+                    },
+                    {
+                        "dst": "59362524402810900",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "200"
+                    }
+                ],
+                "name": "robot_1",
+                "type": "differentialrobot"
+            },
+            "21": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 6133
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -22
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 136
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "21",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm0",
+                "type": "plane"
+            },
+            "22": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 18320
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -50
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -42
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "22",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm2",
+                "type": "plane"
+            },
+            "220": {
+                "attribute": {
+                    "battery_load": {
+                        "type": 2,
+                        "value": 100
+                    },
+                    "color": {
+                        "type": 0,
+                        "value": "Red"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 15
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 20
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 2
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "200"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -1097.523682
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -890.529846
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#b7e059"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 70
+                    }
+                },
+                "id": "220",
+                "links": [
+                ],
+                "name": "battery_1",
+                "type": "plane"
+            },
+            "221": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Blue"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 15
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 20
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 2
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "200"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -932.003235
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -903.938049
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#b7e059"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 70
+                    },
+                    "wifi_signal": {
+                        "type": 1,
+                        "value": 100
+                    }
+                },
+                "id": "221",
+                "links": [
+                ],
+                "name": "wifi_1",
+                "type": "plane"
+            },
+            "222": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Blue"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 15
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 20
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 2
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "300"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 127.333733
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -697.758301
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#b7e059"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 70
+                    },
+                    "wifi_signal": {
+                        "type": 1,
+                        "value": 100
+                    }
+                },
+                "id": "222",
+                "links": [
+                ],
+                "name": "wifi_2",
+                "type": "plane"
+            },
+            "224": {
+                "attribute": {
+                    "battery_load": {
+                        "type": 2,
+                        "value": 100
+                    },
+                    "color": {
+                        "type": 0,
+                        "value": "Red"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 15
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 20
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 2
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "300"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 293.983215
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -647.929199
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#b7e059"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 70
+                    }
+                },
+                "id": "224",
+                "links": [
+                ],
+                "name": "battery_2",
+                "type": "plane"
+            },
+            "23": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 3380
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -43
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -172
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "23",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm3",
+                "type": "plane"
+            },
+            "230": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Orange"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 15
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 20
+                    },
+                    "laser_angles": {
+                        "type": 3,
+                        "value": [
+                        ]
+                    },
+                    "laser_dists": {
+                        "type": 3,
+                        "value": [
+                        ]
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 2
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "200"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -990.458496
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -938.029663
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 70
+                    }
+                },
+                "id": "230",
+                "links": [
+                ],
+                "name": "laser_1",
+                "type": "laser"
+            },
+            "231": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Orange"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 15
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 20
+                    },
+                    "laser_angles": {
+                        "type": 3,
+                        "value": [
+                        ]
+                    },
+                    "laser_dists": {
+                        "type": 3,
+                        "value": [
+                        ]
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 2
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "300"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 225.248413
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -689.774109
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 70
+                    }
+                },
+                "id": "231",
+                "links": [
+                ],
+                "name": "laser_2",
+                "type": "laser"
+            },
+            "24": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 5484
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 63
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -175
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "24",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm4",
+                "type": "plane"
+            },
+            "25": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 2950
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -69
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -137
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "25",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm5",
+                "type": "plane"
+            },
+            "26": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 2950
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 170
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -43
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "26",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm6",
+                "type": "plane"
+            },
+            "27": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2399
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 7314
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -14
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 131
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "27",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm7",
+                "type": "plane"
+            },
+            "28": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 1898
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -98
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 52
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "28",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm8",
+                "type": "plane"
+            },
+            "29": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 4703
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -14
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -98
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "29",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm9",
+                "type": "plane"
+            },
+            "3": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 100
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 71999
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 190
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 158
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#ffffff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "3",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm",
+                "type": "plane"
+            },
+            "30": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 4893
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 3
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 120
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "30",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm10",
+                "type": "plane"
+            },
+            "300": {
+                "attribute": {
+                    "base_target_x": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "base_target_y": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "color": {
+                        "type": 0,
+                        "value": "Blue"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "port": {
+                        "type": 1,
+                        "value": 10000
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 132.048203
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -484.452301
+                    },
+                    "ref_adv_speed": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "ref_rot_speed": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "ref_side_speed": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "robot_local_linear_velocity": {
+                        "type": 3,
+                        "value": [
+                            2.574920415878296,
+                            -0.038136374205350876,
+                            -6.283181190490723
+                        ]
+                    },
+                    "robot_occupied": {
+                        "type": 4,
+                        "value": false
+                    }
+                },
+                "id": "300",
+                "links": [
+                    {
+                        "dst": "222",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    400
+                                ]
+                            }
+                        },
+                        "src": "300"
+                    },
+                    {
+                        "dst": "224",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    -200,
+                                    200
+                                ]
+                            }
+                        },
+                        "src": "300"
+                    },
+                    {
+                        "dst": "231",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    350
+                                ]
+                            }
+                        },
+                        "src": "300"
+                    },
+                    {
+                        "dst": "1001",
+                        "label": "has",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "300"
+                    },
+                    {
+                        "dst": "56627231765561365",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "300"
+                    },
+                    {
+                        "dst": "57749776749297685",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "300"
+                    },
+                    {
+                        "dst": "58778096542679061",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "300"
+                    },
+                    {
+                        "dst": "58778131338625045",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "300"
+                    },
+                    {
+                        "dst": "59362524402810901",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "300"
+                    }
+                ],
+                "name": "robot_2",
+                "type": "differentialrobot"
+            },
+            "31": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 4999
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 198
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 141
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "31",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm11",
+                "type": "plane"
+            },
+            "32": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2399
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 7314
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 23
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -174
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "32",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm12",
+                "type": "plane"
+            },
+            "33": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 5483
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 44
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 31
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "33",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm13",
+                "type": "plane"
+            },
+            "34": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 2973
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -72
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 77
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "34",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm14",
+                "type": "plane"
+            },
+            "35": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 2973
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 197
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "35",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm15",
+                "type": "plane"
+            },
+            "36": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 3432
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 158
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 2
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "36",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm16",
+                "type": "plane"
+            },
+            "37": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 18460
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 1
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 143
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "37",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm17",
+                "type": "plane"
+            },
+            "38": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 2149
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 79
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 34
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "38",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm18",
+                "type": "plane"
+            },
+            "39": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 24993
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -12
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 78
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "39",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm19",
+                "type": "plane"
+            },
+            "4": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 100
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 5104
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 48
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 88
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "4",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm0",
+                "type": "plane"
+            },
+            "40": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 4991
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -142
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 18
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "40",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm20",
+                "type": "plane"
+            },
+            "41": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 6174
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -129
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -10
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "41",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm21",
+                "type": "plane"
+            },
+            "42": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 5023
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -108
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 67
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "42",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm22",
+                "type": "plane"
+            },
+            "43": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 12687
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -51
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 156
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "43",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm23",
+                "type": "plane"
+            },
+            "44": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 5023
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -26
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -169
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "44",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm24",
+                "type": "plane"
+            },
+            "45": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 100
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 6088
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 91
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -160
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "45",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm18",
+                "type": "plane"
+            },
+            "46": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2400
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 12687
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -110
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 176
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "46",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm25",
+                "type": "plane"
+            },
+            "47": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 2399
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 31056
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 93
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -7
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 150
+                    }
+                },
+                "id": "47",
+                "links": [
+                ],
+                "name": "240cmHighWall400cm26",
+                "type": "plane"
+            },
+            "48": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 500
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 2499
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -171
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 59
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "48",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm9",
+                "type": "plane"
+            },
+            "49": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 100
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 13499
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -113
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 134
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "49",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm19",
+                "type": "plane"
+            },
+            "5": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 100
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 12641
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -195
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 137
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "5",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm1",
+                "type": "plane"
+            },
+            "50": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 100
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 4699
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 65
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 125
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#ffffff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "50",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm20",
+                "type": "plane"
+            },
+            "51": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 100
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 2399
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -39
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 25
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#ffffff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "51",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm21",
+                "type": "plane"
+            },
+            "56627231765561364": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "GoldenRod"
+                    },
+                    "gps_altitude": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "gps_azimut": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "gps_id": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "gps_latitude": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "gps_longitude": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "gps_map_x": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "gps_map_y": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "gps_rot": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 2
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "200"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -847.884888
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -852.883057
+                    }
+                },
+                "id": "56627231765561364",
+                "links": [
+                ],
+                "name": "gps_1",
+                "type": "gps"
+            },
+            "56627231765561365": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "GoldenRod"
+                    },
+                    "gps_altitude": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "gps_azimut": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "gps_id": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "gps_latitude": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "gps_longitude": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "gps_map_x": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "gps_map_y": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "gps_rot": {
+                        "type": 2,
+                        "value": 0
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 2
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "300"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 50.337418
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -659.480164
+                    }
+                },
+                "id": "56627231765561365",
+                "links": [
+                ],
+                "name": "gps_2",
+                "type": "gps"
+            },
+            "57749776749297684": {
+                "attribute": {
+                    "cam_rgb": {
+                        "type": 5,
+                        "value": [
+                        ]
+                    },
+                    "cam_rgb_depth": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "cam_rgb_focalx": {
+                        "type": 1,
+                        "value": 424
+                    },
+                    "cam_rgb_focaly": {
+                        "type": 1,
+                        "value": 424
+                    },
+                    "cam_rgb_height": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "cam_rgb_width": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "color": {
+                        "type": 0,
+                        "value": "GoldenRod"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 2
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "200"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -693.225098
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -743.891418
+                    }
+                },
+                "id": "57749776749297684",
+                "links": [
+                    {
+                        "dst": "59363017652961300",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "57749776749297684"
+                    }
+                ],
+                "name": "three_frontal_camera_1",
+                "type": "rgbd"
+            },
+            "57749776749297685": {
+                "attribute": {
+                    "cam_rgb": {
+                        "type": 5,
+                        "value": [
+                        ]
+                    },
+                    "cam_rgb_depth": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "cam_rgb_focalx": {
+                        "type": 1,
+                        "value": 424
+                    },
+                    "cam_rgb_focaly": {
+                        "type": 1,
+                        "value": 424
+                    },
+                    "cam_rgb_height": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "cam_rgb_width": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "color": {
+                        "type": 0,
+                        "value": "GoldenRod"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 2
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "300"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -69.15976
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -546.427551
+                    }
+                },
+                "id": "57749776749297685",
+                "links": [
+                    {
+                        "dst": "59363017652961301",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "57749776749297685"
+                    }
+                ],
+                "name": "three_frontal_camera_2",
+                "type": "rgbd"
+            },
+            "58778096542679060": {
+                "attribute": {
+                    "cam_rgb": {
+                        "type": 5,
+                        "value": [
+                        ]
+                    },
+                    "cam_rgb_depth": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "cam_rgb_focalx": {
+                        "type": 1,
+                        "value": 424
+                    },
+                    "cam_rgb_focaly": {
+                        "type": 1,
+                        "value": 424
+                    },
+                    "cam_rgb_height": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "cam_rgb_width": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "color": {
+                        "type": 0,
+                        "value": "GoldenRod"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 2
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "200"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -734.803772
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -778.945496
+                    }
+                },
+                "id": "58778096542679060",
+                "links": [
+                    {
+                        "dst": "59362936015028244",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "58778096542679060"
+                    }
+                ],
+                "name": "right_camera_1",
+                "type": "rgbd"
+            },
+            "58778096542679061": {
+                "attribute": {
+                    "cam_rgb": {
+                        "type": 5,
+                        "value": [
+                        ]
+                    },
+                    "cam_rgb_depth": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "cam_rgb_focalx": {
+                        "type": 1,
+                        "value": 424
+                    },
+                    "cam_rgb_focaly": {
+                        "type": 1,
+                        "value": 424
+                    },
+                    "cam_rgb_height": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "cam_rgb_width": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "color": {
+                        "type": 0,
+                        "value": "GoldenRod"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 2
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "300"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -47.194088
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -593.180359
+                    }
+                },
+                "id": "58778096542679061",
+                "links": [
+                    {
+                        "dst": "59362936015028245",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "58778096542679061"
+                    }
+                ],
+                "name": "right_camera_2",
+                "type": "rgbd"
+            },
+            "58778131338625044": {
+                "attribute": {
+                    "cam_rgb": {
+                        "type": 5,
+                        "value": [
+                        ]
+                    },
+                    "cam_rgb_depth": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "cam_rgb_focalx": {
+                        "type": 1,
+                        "value": 424
+                    },
+                    "cam_rgb_focaly": {
+                        "type": 1,
+                        "value": 424
+                    },
+                    "cam_rgb_height": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "cam_rgb_width": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "color": {
+                        "type": 0,
+                        "value": "GoldenRod"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 2
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "200"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -785.291809
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -816.498535
+                    }
+                },
+                "id": "58778131338625044",
+                "links": [
+                    {
+                        "dst": "59362954973282324",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "58778131338625044"
+                    }
+                ],
+                "name": "left_camera_1",
+                "type": "rgbd"
+            },
+            "58778131338625045": {
+                "attribute": {
+                    "cam_rgb": {
+                        "type": 5,
+                        "value": [
+                        ]
+                    },
+                    "cam_rgb_depth": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "cam_rgb_focalx": {
+                        "type": 1,
+                        "value": 424
+                    },
+                    "cam_rgb_focaly": {
+                        "type": 1,
+                        "value": 424
+                    },
+                    "cam_rgb_height": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "cam_rgb_width": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "color": {
+                        "type": 0,
+                        "value": "GoldenRod"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 2
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "300"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 7.334375
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -622.988037
+                    }
+                },
+                "id": "58778131338625045",
+                "links": [
+                    {
+                        "dst": "59362954973282325",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "58778131338625045"
+                    }
+                ],
+                "name": "left_camera_2",
+                "type": "rgbd"
+            },
+            "59362524402810900": {
+                "attribute": {
+                    "cam_rgb": {
+                        "type": 5,
+                        "value": [
+                        ]
+                    },
+                    "cam_rgb_depth": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "cam_rgb_focalx": {
+                        "type": 1,
+                        "value": 424
+                    },
+                    "cam_rgb_focaly": {
+                        "type": 1,
+                        "value": 424
+                    },
+                    "cam_rgb_height": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "cam_rgb_width": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "color": {
+                        "type": 0,
+                        "value": "GoldenRod"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 2
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "200"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -686.084839
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -692.607117
+                    }
+                },
+                "id": "59362524402810900",
+                "links": [
+                    {
+                        "dst": "59363000171102228",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "59362524402810900"
+                    }
+                ],
+                "name": "back_camera_1",
+                "type": "rgbd"
+            },
+            "59362524402810901": {
+                "attribute": {
+                    "cam_rgb": {
+                        "type": 5,
+                        "value": [
+                        ]
+                    },
+                    "cam_rgb_depth": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "cam_rgb_focalx": {
+                        "type": 1,
+                        "value": 424
+                    },
+                    "cam_rgb_focaly": {
+                        "type": 1,
+                        "value": 424
+                    },
+                    "cam_rgb_height": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "cam_rgb_width": {
+                        "type": 1,
+                        "value": 0
+                    },
+                    "color": {
+                        "type": 0,
+                        "value": "GoldenRod"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 2
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "300"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -86.375198
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -500.130829
+                    }
+                },
+                "id": "59362524402810901",
+                "links": [
+                    {
+                        "dst": "59363000171102229",
+                        "label": "RT",
+                        "linkAttribute": {
+                            "rt_rotation_euler_xyz": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "rt_translation": {
+                                "type": 3,
+                                "value": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            }
+                        },
+                        "src": "59362524402810901"
+                    }
+                ],
+                "name": "back_camera_2",
+                "type": "rgbd"
+            },
+            "59362936015028244": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "GoldenRod"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 3
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "58778096542679060"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -508.569763
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -830.759521
+                    }
+                },
+                "id": "59362936015028244",
+                "links": [
+                ],
+                "name": "laser_right_1",
+                "type": "laser"
+            },
+            "59362936015028245": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "GoldenRod"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 3
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "58778096542679061"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -77.667999
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -681.102417
+                    }
+                },
+                "id": "59362936015028245",
+                "links": [
+                ],
+                "name": "laser_right_2",
+                "type": "laser"
+            },
+            "59362954973282324": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "GoldenRod"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 3
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "58778131338625044"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -661.055237
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -873.555054
+                    }
+                },
+                "id": "59362954973282324",
+                "links": [
+                ],
+                "name": "laser_left_1",
+                "type": "laser"
+            },
+            "59362954973282325": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "GoldenRod"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 3
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "58778131338625045"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 21.838135
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -738.354309
+                    }
+                },
+                "id": "59362954973282325",
+                "links": [
+                ],
+                "name": "laser_left_2",
+                "type": "laser"
+            },
+            "59363000171102228": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "GoldenRod"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 3
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "59362524402810900"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -468.318817
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -715.162231
+                    }
+                },
+                "id": "59363000171102228",
+                "links": [
+                ],
+                "name": "laser_back_1",
+                "type": "laser"
+            },
+            "59363000171102229": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "GoldenRod"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 3
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "59362524402810901"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -221.446533
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -581.318542
+                    }
+                },
+                "id": "59363000171102229",
+                "links": [
+                ],
+                "name": "laser_back_2",
+                "type": "laser"
+            },
+            "59363017652961300": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "GoldenRod"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 3
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "57749776749297684"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -481.7612
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -776.074097
+                    }
+                },
+                "id": "59363017652961300",
+                "links": [
+                ],
+                "name": "laser_front_1",
+                "type": "laser"
+            },
+            "59363017652961301": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "GoldenRod"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 3
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "57749776749297685"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -187.869354
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -635.648804
+                    }
+                },
+                "id": "59363017652961301",
+                "links": [
+                ],
+                "name": "laser_front_2",
+                "type": "laser"
+            },
+            "6": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 500
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 4505
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 92
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -40
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#ffffff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "6",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm2",
+                "type": "plane"
+            },
+            "7": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 500
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 41999
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -5
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -66
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "7",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm3",
+                "type": "plane"
+            },
+            "79792342558572564": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "GoldenRod"
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": 27.37035
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 600.460144
+                    }
+                },
+                "id": "79792342558572564",
+                "links": [
+                ],
+                "name": "camera_exterior",
+                "type": "camera"
+            },
+            "8": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 500
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 42241
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -17
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": 74
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "8",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm4",
+                "type": "plane"
+            },
+            "9": {
+                "attribute": {
+                    "color": {
+                        "type": 0,
+                        "value": "Khaki"
+                    },
+                    "depth": {
+                        "type": 1,
+                        "value": 500
+                    },
+                    "height": {
+                        "type": 1,
+                        "value": 4505
+                    },
+                    "level": {
+                        "type": 1,
+                        "value": 1
+                    },
+                    "parent": {
+                        "type": 7,
+                        "value": "1"
+                    },
+                    "pos_x": {
+                        "type": 2,
+                        "value": -164
+                    },
+                    "pos_y": {
+                        "type": 2,
+                        "value": -89
+                    },
+                    "texture": {
+                        "type": 0,
+                        "value": "#3333ff"
+                    },
+                    "width": {
+                        "type": 1,
+                        "value": 200
+                    }
+                },
+                "id": "9",
+                "links": [
+                ],
+                "name": "20cmHighWall50cm5",
+                "type": "plane"
+            }
+        }
+    }
+}

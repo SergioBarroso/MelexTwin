@@ -1,0 +1,3210 @@
+[37;1m2022-06-06 17:40:14.006 [33;1m[[37;1mRTPS_LIVELINESS[33;1m Warning] [37mWriter 01.0f.1b.26.05.5a.a1.33.01.00.00.00|0.0.5.3 not found.[34;1m -> Function [36mremove_local_writer[m
+[37;1m2022-06-06 17:40:14.006 [33;1m[[37;1mRTPS_READER[33;1m Warning] [37mAutomatically unmatching on ~WriterProxy[34;1m -> Function [36m~WriterProxy[m
+1654530014.059309
+30.0 <class 'float'>
+Waiting for results
+0.05236339569091797
+Processing simulation data
+Waiting for results
+0.10384917259216309
+Processing simulation data
+Waiting for results
+0.15451431274414062
+Processing simulation data
+Waiting for results
+0.20497536659240723
+Processing simulation data
+Waiting for results
+0.25444984436035156
+Processing simulation data
+Waiting for results
+0.30494213104248047
+Processing simulation data
+Waiting for results
+0.35437726974487305
+Processing simulation data
+Waiting for results
+0.40478062629699707
+Processing simulation data
+Waiting for results
+0.4552488327026367
+Processing simulation data
+Waiting for results
+0.5046494007110596
+Processing simulation data
+Waiting for results
+0.555084228515625
+Processing simulation data
+Waiting for results
+0.6044845581054688
+Processing simulation data
+Waiting for results
+0.6548192501068115
+Processing simulation data
+Waiting for results
+0.7051568031311035
+Processing simulation data
+Waiting for results
+0.7545986175537109
+Processing simulation data
+Waiting for results
+0.8049993515014648
+Processing simulation data
+Waiting for results
+0.8544843196868896
+Processing simulation data
+Waiting for results
+0.9048993587493896
+Processing simulation data
+Waiting for results
+0.9544038772583008
+Processing simulation data
+Waiting for results
+1.0048909187316895
+Processing simulation data
+Waiting for results
+1.0544466972351074
+Processing simulation data
+Waiting for results
+1.104804515838623
+Processing simulation data
+Waiting for results
+1.1552491188049316
+Processing simulation data
+Waiting for results
+1.2047786712646484
+Processing simulation data
+Waiting for results
+1.2551982402801514
+Processing simulation data
+Waiting for results
+1.3046059608459473
+Processing simulation data
+Waiting for results
+1.3551032543182373
+Processing simulation data
+Waiting for results
+1.404695987701416
+Processing simulation data
+Waiting for results
+1.455308198928833
+Processing simulation data
+Waiting for results
+1.5047240257263184
+Processing simulation data
+Waiting for results
+1.5552144050598145
+Processing simulation data
+Waiting for results
+1.6047415733337402
+Processing simulation data
+Waiting for results
+1.6544079780578613
+Processing simulation data
+Waiting for results
+1.7047884464263916
+Processing simulation data
+Waiting for results
+1.755220890045166
+Processing simulation data
+Waiting for results
+1.804795742034912
+Processing simulation data
+Waiting for results
+1.8544228076934814
+Processing simulation data
+Waiting for results
+1.904867172241211
+Processing simulation data
+Waiting for results
+1.955359697341919
+Processing simulation data
+Waiting for results
+2.0048420429229736
+Processing simulation data
+Waiting for results
+2.0545310974121094
+Processing simulation data
+Waiting for results
+2.104933261871338
+Processing simulation data
+Waiting for results
+2.1552984714508057
+Processing simulation data
+Waiting for results
+2.2046923637390137
+Processing simulation data
+Waiting for results
+2.2544867992401123
+Processing simulation data
+Waiting for results
+2.3051557540893555
+Processing simulation data
+Waiting for results
+2.354613780975342
+Processing simulation data
+Waiting for results
+2.405107259750366
+Processing simulation data
+Waiting for results
+2.4546825885772705
+Processing simulation data
+Waiting for results
+2.5043530464172363
+Processing simulation data
+Waiting for results
+2.554879665374756
+Processing simulation data
+Waiting for results
+2.6044015884399414
+Processing simulation data
+Waiting for results
+2.654926300048828
+Processing simulation data
+Waiting for results
+2.704622983932495
+Processing simulation data
+Waiting for results
+2.7550888061523438
+Processing simulation data
+Waiting for results
+2.804603338241577
+Processing simulation data
+Waiting for results
+2.8551361560821533
+Processing simulation data
+Waiting for results
+2.904881477355957
+Processing simulation data
+Waiting for results
+2.9554343223571777
+Processing simulation data
+Waiting for results
+3.0048739910125732
+Processing simulation data
+Waiting for results
+3.054427146911621
+Processing simulation data
+Waiting for results
+3.1053574085235596
+Processing simulation data
+Waiting for results
+3.155193567276001
+Processing simulation data
+Waiting for results
+3.2046334743499756
+Processing simulation data
+Waiting for results
+3.255054473876953
+Processing simulation data
+Waiting for results
+3.3046011924743652
+Processing simulation data
+Waiting for results
+3.355243682861328
+Processing simulation data
+Waiting for results
+3.4046077728271484
+Processing simulation data
+Waiting for results
+3.4550857543945312
+Processing simulation data
+Waiting for results
+3.504620313644409
+Processing simulation data
+Waiting for results
+3.555112361907959
+Processing simulation data
+Waiting for results
+3.6044921875
+Processing simulation data
+Waiting for results
+3.6549952030181885
+Processing simulation data
+Waiting for results
+3.704561710357666
+Processing simulation data
+Waiting for results
+3.7553610801696777
+Processing simulation data
+Waiting for results
+3.8048317432403564
+Processing simulation data
+Waiting for results
+3.8553075790405273
+Processing simulation data
+Waiting for results
+3.9048595428466797
+Processing simulation data
+Waiting for results
+3.9546258449554443
+Processing simulation data
+Waiting for results
+4.004546403884888
+Processing simulation data
+Waiting for results
+4.055051565170288
+Processing simulation data
+Waiting for results
+4.104479551315308
+Processing simulation data
+Waiting for results
+4.154923915863037
+Processing simulation data
+Waiting for results
+4.205329179763794
+Processing simulation data
+Waiting for results
+4.254717111587524
+Processing simulation data
+Waiting for results
+4.305209636688232
+Processing simulation data
+Waiting for results
+4.354662179946899
+Processing simulation data
+Waiting for results
+4.405115604400635
+Processing simulation data
+Waiting for results
+4.454647779464722
+Processing simulation data
+Waiting for results
+4.5051233768463135
+Processing simulation data
+Waiting for results
+4.5547473430633545
+Processing simulation data
+Waiting for results
+4.604608058929443
+Processing simulation data
+Waiting for results
+4.655080556869507
+Processing simulation data
+Waiting for results
+4.7045862674713135
+Processing simulation data
+Waiting for results
+4.75520133972168
+Processing simulation data
+Waiting for results
+4.805230379104614
+Processing simulation data
+Waiting for results
+4.854757070541382
+Processing simulation data
+Waiting for results
+4.9053733348846436
+Processing simulation data
+Waiting for results
+4.95503044128418
+Processing simulation data
+Waiting for results
+5.005167722702026
+Processing simulation data
+
+{
+    valid = True
+    nsimulation = 0
+    time = 4.904850959777832
+    fullresult = 
+    {
+        [0] = 
+        {
+            collision = False
+            isbreak = False
+            actorlist = 
+            {
+                [0] = 
+                {
+                    id = 200
+                    carlaid = 2812
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 33.2347526550293
+                            ty = 113.90663146972656
+                            tz = 369.6000671386719
+                            rx = 1.3340452298393757e-08
+                            ry = 0.3438931703567505
+                            rz = -73.59963989257812
+                        }
+                        [1] = 
+                        {
+                            tx = 36.01361846923828
+                            ty = 104.30062866210938
+                            tz = 369.63995361328125
+                            rx = 0.0
+                            ry = 0.3388729989528656
+                            rz = -74.69822692871094
+                        }
+                        [2] = 
+                        {
+                            tx = 37.5474853515625
+                            ty = 94.0586929321289
+                            tz = 369.69671630859375
+                            rx = -3.3351239547840805e-09
+                            ry = 0.37289416790008545
+                            rz = -166.34510803222656
+                        }
+                        [3] = 
+                        {
+                            tx = 29.420148849487305
+                            ty = 88.8548355102539
+                            tz = 369.7424621582031
+                            rx = 0.0
+                            ry = 0.33398255705833435
+                            rz = -178.10011291503906
+                        }
+                        [4] = 
+                        {
+                            tx = 24.21288299560547
+                            ty = 95.21487426757812
+                            tz = 369.7651062011719
+                            rx = 1.334041321854329e-08
+                            ry = 0.3140862286090851
+                            rz = 106.42286682128906
+                        }
+                    }
+                    rol = ego_vehicle
+                }
+                [1] = 
+                {
+                    id = 401
+                    carlaid = 2813
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 22.994422912597656
+                            ty = 100.0713882446289
+                            tz = 369.80487060546875
+                            rx = 0.0
+                            ry = -0.3014230728149414
+                            rz = 106.0024185180664
+                        }
+                        [1] = 
+                        {
+                            tx = 20.36092185974121
+                            ty = 109.24749755859375
+                            tz = 369.71038818359375
+                            rx = 0.0
+                            ry = -0.29705172777175903
+                            rz = 106.0024185180664
+                        }
+                        [2] = 
+                        {
+                            tx = 17.509450912475586
+                            ty = 119.19020080566406
+                            tz = 369.65740966796875
+                            rx = 2.6680755382813004e-08
+                            ry = -0.28564533591270447
+                            rz = 106.00239562988281
+                        }
+                        [3] = 
+                        {
+                            tx = 14.762182235717773
+                            ty = 128.76954650878906
+                            tz = 369.6080322265625
+                            rx = 0.0
+                            ry = -0.2836304306983948
+                            rz = 106.00241088867188
+                        }
+                        [4] = 
+                        {
+                            tx = 13.487807273864746
+                            ty = 136.75218200683594
+                            tz = 369.5812072753906
+                            rx = 0.0
+                            ry = -0.13000580668449402
+                            rz = 70.59437561035156
+                        }
+                    }
+                    rol = vehicle
+                }
+                [2] = 
+                {
+                    id = 400
+                    carlaid = 2814
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 15.590774536132812
+                            ty = 141.80615234375
+                            tz = 372.2284240722656
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [1] = 
+                        {
+                            tx = 15.659123420715332
+                            ty = 141.8268585205078
+                            tz = 371.95513916015625
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [2] = 
+                        {
+                            tx = 15.733169555664062
+                            ty = 141.84939575195312
+                            tz = 371.6590881347656
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [3] = 
+                        {
+                            tx = 15.807230949401855
+                            ty = 141.87191772460938
+                            tz = 371.363037109375
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [4] = 
+                        {
+                            tx = 15.875603675842285
+                            ty = 141.89273071289062
+                            tz = 371.0897521972656
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                    }
+                    rol = vehicle
+                }
+            }
+        }
+        [1] = 
+        {
+            collision = False
+            isbreak = False
+            actorlist = 
+            {
+                [0] = 
+                {
+                    id = 200
+                    carlaid = 2812
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 33.2347526550293
+                            ty = 113.90663146972656
+                            tz = 369.6000671386719
+                            rx = 1.3340452298393757e-08
+                            ry = 0.3438931703567505
+                            rz = -73.59963989257812
+                        }
+                        [1] = 
+                        {
+                            tx = 36.01361846923828
+                            ty = 104.30062866210938
+                            tz = 369.63995361328125
+                            rx = 0.0
+                            ry = 0.3388729989528656
+                            rz = -74.69822692871094
+                        }
+                        [2] = 
+                        {
+                            tx = 37.5474853515625
+                            ty = 94.0586929321289
+                            tz = 369.69671630859375
+                            rx = -3.3351239547840805e-09
+                            ry = 0.37289416790008545
+                            rz = -166.34510803222656
+                        }
+                        [3] = 
+                        {
+                            tx = 29.420148849487305
+                            ty = 88.8548355102539
+                            tz = 369.7424621582031
+                            rx = 0.0
+                            ry = 0.33398255705833435
+                            rz = -178.10011291503906
+                        }
+                        [4] = 
+                        {
+                            tx = 24.21288299560547
+                            ty = 95.21487426757812
+                            tz = 369.7651062011719
+                            rx = 1.334041321854329e-08
+                            ry = 0.3140862286090851
+                            rz = 106.42286682128906
+                        }
+                    }
+                    rol = ego_vehicle
+                }
+                [1] = 
+                {
+                    id = 401
+                    carlaid = 2813
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 22.994422912597656
+                            ty = 100.0713882446289
+                            tz = 369.80487060546875
+                            rx = 0.0
+                            ry = -0.3014230728149414
+                            rz = 106.0024185180664
+                        }
+                        [1] = 
+                        {
+                            tx = 20.36092185974121
+                            ty = 109.24749755859375
+                            tz = 369.71038818359375
+                            rx = 0.0
+                            ry = -0.29705172777175903
+                            rz = 106.0024185180664
+                        }
+                        [2] = 
+                        {
+                            tx = 17.509450912475586
+                            ty = 119.19020080566406
+                            tz = 369.65740966796875
+                            rx = 2.6680755382813004e-08
+                            ry = -0.28564533591270447
+                            rz = 106.00239562988281
+                        }
+                        [3] = 
+                        {
+                            tx = 14.762182235717773
+                            ty = 128.76954650878906
+                            tz = 369.6080322265625
+                            rx = 0.0
+                            ry = -0.2836304306983948
+                            rz = 106.00241088867188
+                        }
+                        [4] = 
+                        {
+                            tx = 13.487807273864746
+                            ty = 136.75218200683594
+                            tz = 369.5812072753906
+                            rx = 0.0
+                            ry = -0.13000580668449402
+                            rz = 70.59437561035156
+                        }
+                    }
+                    rol = vehicle
+                }
+                [2] = 
+                {
+                    id = 400
+                    carlaid = 2814
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 15.590774536132812
+                            ty = 141.80615234375
+                            tz = 372.2284240722656
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [1] = 
+                        {
+                            tx = 15.659123420715332
+                            ty = 141.8268585205078
+                            tz = 371.95513916015625
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [2] = 
+                        {
+                            tx = 15.733169555664062
+                            ty = 141.84939575195312
+                            tz = 371.6590881347656
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [3] = 
+                        {
+                            tx = 15.807230949401855
+                            ty = 141.87191772460938
+                            tz = 371.363037109375
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [4] = 
+                        {
+                            tx = 15.875603675842285
+                            ty = 141.89273071289062
+                            tz = 371.0897521972656
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                    }
+                    rol = vehicle
+                }
+            }
+        }
+        [2] = 
+        {
+            collision = False
+            isbreak = False
+            actorlist = 
+            {
+                [0] = 
+                {
+                    id = 200
+                    carlaid = 2812
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 33.2347526550293
+                            ty = 113.90663146972656
+                            tz = 369.6000671386719
+                            rx = 1.3340452298393757e-08
+                            ry = 0.3438931703567505
+                            rz = -73.59963989257812
+                        }
+                        [1] = 
+                        {
+                            tx = 36.01361846923828
+                            ty = 104.30062866210938
+                            tz = 369.63995361328125
+                            rx = 0.0
+                            ry = 0.3388729989528656
+                            rz = -74.69822692871094
+                        }
+                        [2] = 
+                        {
+                            tx = 37.5474853515625
+                            ty = 94.0586929321289
+                            tz = 369.69671630859375
+                            rx = -3.3351239547840805e-09
+                            ry = 0.37289416790008545
+                            rz = -166.34510803222656
+                        }
+                        [3] = 
+                        {
+                            tx = 29.420148849487305
+                            ty = 88.8548355102539
+                            tz = 369.7424621582031
+                            rx = 0.0
+                            ry = 0.33398255705833435
+                            rz = -178.10011291503906
+                        }
+                        [4] = 
+                        {
+                            tx = 24.21288299560547
+                            ty = 95.21487426757812
+                            tz = 369.7651062011719
+                            rx = 1.334041321854329e-08
+                            ry = 0.3140862286090851
+                            rz = 106.42286682128906
+                        }
+                    }
+                    rol = ego_vehicle
+                }
+                [1] = 
+                {
+                    id = 401
+                    carlaid = 2813
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 22.994422912597656
+                            ty = 100.0713882446289
+                            tz = 369.80487060546875
+                            rx = 0.0
+                            ry = -0.3014230728149414
+                            rz = 106.0024185180664
+                        }
+                        [1] = 
+                        {
+                            tx = 20.36092185974121
+                            ty = 109.24749755859375
+                            tz = 369.71038818359375
+                            rx = 0.0
+                            ry = -0.29705172777175903
+                            rz = 106.0024185180664
+                        }
+                        [2] = 
+                        {
+                            tx = 17.509450912475586
+                            ty = 119.19020080566406
+                            tz = 369.65740966796875
+                            rx = 2.6680755382813004e-08
+                            ry = -0.28564533591270447
+                            rz = 106.00239562988281
+                        }
+                        [3] = 
+                        {
+                            tx = 14.762182235717773
+                            ty = 128.76954650878906
+                            tz = 369.6080322265625
+                            rx = 0.0
+                            ry = -0.2836304306983948
+                            rz = 106.00241088867188
+                        }
+                        [4] = 
+                        {
+                            tx = 13.487807273864746
+                            ty = 136.75218200683594
+                            tz = 369.5812072753906
+                            rx = 0.0
+                            ry = -0.13000580668449402
+                            rz = 70.59437561035156
+                        }
+                    }
+                    rol = vehicle
+                }
+                [2] = 
+                {
+                    id = 400
+                    carlaid = 2814
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 15.590774536132812
+                            ty = 141.80615234375
+                            tz = 372.2284240722656
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [1] = 
+                        {
+                            tx = 15.659123420715332
+                            ty = 141.8268585205078
+                            tz = 371.95513916015625
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [2] = 
+                        {
+                            tx = 15.733169555664062
+                            ty = 141.84939575195312
+                            tz = 371.6590881347656
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [3] = 
+                        {
+                            tx = 15.807230949401855
+                            ty = 141.87191772460938
+                            tz = 371.363037109375
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [4] = 
+                        {
+                            tx = 15.875603675842285
+                            ty = 141.89273071289062
+                            tz = 371.0897521972656
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                    }
+                    rol = vehicle
+                }
+            }
+        }
+        [3] = 
+        {
+            collision = False
+            isbreak = False
+            actorlist = 
+            {
+                [0] = 
+                {
+                    id = 200
+                    carlaid = 2812
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 33.2347526550293
+                            ty = 113.90663146972656
+                            tz = 369.6000671386719
+                            rx = 1.3340452298393757e-08
+                            ry = 0.3438931703567505
+                            rz = -73.59963989257812
+                        }
+                        [1] = 
+                        {
+                            tx = 36.01361846923828
+                            ty = 104.30062866210938
+                            tz = 369.63995361328125
+                            rx = 0.0
+                            ry = 0.3388729989528656
+                            rz = -74.69822692871094
+                        }
+                        [2] = 
+                        {
+                            tx = 37.5474853515625
+                            ty = 94.0586929321289
+                            tz = 369.69671630859375
+                            rx = -3.3351239547840805e-09
+                            ry = 0.37289416790008545
+                            rz = -166.34510803222656
+                        }
+                        [3] = 
+                        {
+                            tx = 29.420148849487305
+                            ty = 88.8548355102539
+                            tz = 369.7424621582031
+                            rx = 0.0
+                            ry = 0.33398255705833435
+                            rz = -178.10011291503906
+                        }
+                        [4] = 
+                        {
+                            tx = 24.21288299560547
+                            ty = 95.21487426757812
+                            tz = 369.7651062011719
+                            rx = 1.334041321854329e-08
+                            ry = 0.3140862286090851
+                            rz = 106.42286682128906
+                        }
+                    }
+                    rol = ego_vehicle
+                }
+                [1] = 
+                {
+                    id = 401
+                    carlaid = 2813
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 22.994422912597656
+                            ty = 100.0713882446289
+                            tz = 369.80487060546875
+                            rx = 0.0
+                            ry = -0.3014230728149414
+                            rz = 106.0024185180664
+                        }
+                        [1] = 
+                        {
+                            tx = 20.36092185974121
+                            ty = 109.24749755859375
+                            tz = 369.71038818359375
+                            rx = 0.0
+                            ry = -0.29705172777175903
+                            rz = 106.0024185180664
+                        }
+                        [2] = 
+                        {
+                            tx = 17.509450912475586
+                            ty = 119.19020080566406
+                            tz = 369.65740966796875
+                            rx = 2.6680755382813004e-08
+                            ry = -0.28564533591270447
+                            rz = 106.00239562988281
+                        }
+                        [3] = 
+                        {
+                            tx = 14.762182235717773
+                            ty = 128.76954650878906
+                            tz = 369.6080322265625
+                            rx = 0.0
+                            ry = -0.2836304306983948
+                            rz = 106.00241088867188
+                        }
+                        [4] = 
+                        {
+                            tx = 13.487807273864746
+                            ty = 136.75218200683594
+                            tz = 369.5812072753906
+                            rx = 0.0
+                            ry = -0.13000580668449402
+                            rz = 70.59437561035156
+                        }
+                    }
+                    rol = vehicle
+                }
+                [2] = 
+                {
+                    id = 400
+                    carlaid = 2814
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 15.590774536132812
+                            ty = 141.80615234375
+                            tz = 372.2284240722656
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [1] = 
+                        {
+                            tx = 15.659123420715332
+                            ty = 141.8268585205078
+                            tz = 371.95513916015625
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [2] = 
+                        {
+                            tx = 15.733169555664062
+                            ty = 141.84939575195312
+                            tz = 371.6590881347656
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [3] = 
+                        {
+                            tx = 15.807230949401855
+                            ty = 141.87191772460938
+                            tz = 371.363037109375
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [4] = 
+                        {
+                            tx = 15.875603675842285
+                            ty = 141.89273071289062
+                            tz = 371.0897521972656
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                    }
+                    rol = vehicle
+                }
+            }
+        }
+        [4] = 
+        {
+            collision = False
+            isbreak = False
+            actorlist = 
+            {
+                [0] = 
+                {
+                    id = 200
+                    carlaid = 2812
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 33.2347526550293
+                            ty = 113.90663146972656
+                            tz = 369.6000671386719
+                            rx = 1.3340452298393757e-08
+                            ry = 0.3438931703567505
+                            rz = -73.59963989257812
+                        }
+                        [1] = 
+                        {
+                            tx = 36.01361846923828
+                            ty = 104.30062866210938
+                            tz = 369.63995361328125
+                            rx = 0.0
+                            ry = 0.3388729989528656
+                            rz = -74.69822692871094
+                        }
+                        [2] = 
+                        {
+                            tx = 37.5474853515625
+                            ty = 94.0586929321289
+                            tz = 369.69671630859375
+                            rx = -3.3351239547840805e-09
+                            ry = 0.37289416790008545
+                            rz = -166.34510803222656
+                        }
+                        [3] = 
+                        {
+                            tx = 29.420148849487305
+                            ty = 88.8548355102539
+                            tz = 369.7424621582031
+                            rx = 0.0
+                            ry = 0.33398255705833435
+                            rz = -178.10011291503906
+                        }
+                        [4] = 
+                        {
+                            tx = 24.21288299560547
+                            ty = 95.21487426757812
+                            tz = 369.7651062011719
+                            rx = 1.334041321854329e-08
+                            ry = 0.3140862286090851
+                            rz = 106.42286682128906
+                        }
+                    }
+                    rol = ego_vehicle
+                }
+                [1] = 
+                {
+                    id = 401
+                    carlaid = 2813
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 22.994422912597656
+                            ty = 100.0713882446289
+                            tz = 369.80487060546875
+                            rx = 0.0
+                            ry = -0.3014230728149414
+                            rz = 106.0024185180664
+                        }
+                        [1] = 
+                        {
+                            tx = 20.36092185974121
+                            ty = 109.24749755859375
+                            tz = 369.71038818359375
+                            rx = 0.0
+                            ry = -0.29705172777175903
+                            rz = 106.0024185180664
+                        }
+                        [2] = 
+                        {
+                            tx = 17.509450912475586
+                            ty = 119.19020080566406
+                            tz = 369.65740966796875
+                            rx = 2.6680755382813004e-08
+                            ry = -0.28564533591270447
+                            rz = 106.00239562988281
+                        }
+                        [3] = 
+                        {
+                            tx = 14.762182235717773
+                            ty = 128.76954650878906
+                            tz = 369.6080322265625
+                            rx = 0.0
+                            ry = -0.2836304306983948
+                            rz = 106.00241088867188
+                        }
+                        [4] = 
+                        {
+                            tx = 13.487807273864746
+                            ty = 136.75218200683594
+                            tz = 369.5812072753906
+                            rx = 0.0
+                            ry = -0.13000580668449402
+                            rz = 70.59437561035156
+                        }
+                    }
+                    rol = vehicle
+                }
+                [2] = 
+                {
+                    id = 400
+                    carlaid = 2814
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 15.590774536132812
+                            ty = 141.80615234375
+                            tz = 372.2284240722656
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [1] = 
+                        {
+                            tx = 15.659123420715332
+                            ty = 141.8268585205078
+                            tz = 371.95513916015625
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [2] = 
+                        {
+                            tx = 15.733169555664062
+                            ty = 141.84939575195312
+                            tz = 371.6590881347656
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [3] = 
+                        {
+                            tx = 15.807230949401855
+                            ty = 141.87191772460938
+                            tz = 371.363037109375
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [4] = 
+                        {
+                            tx = 15.875603675842285
+                            ty = 141.89273071289062
+                            tz = 371.0897521972656
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                    }
+                    rol = vehicle
+                }
+            }
+        }
+    }
+}
+ERROR: 342.1879660621808
+Simulación erronea
+0
+ERROR: 342.1879660621808
+Simulación erronea
+0
+ERROR: 342.1879660621808
+Simulación erronea
+0
+ERROR: 342.1879660621808
+Simulación erronea
+0
+ERROR: 342.1879660621808
+Simulación erronea
+0
+5.05450701713562
+24.994832277297974 <class 'float'>
+Waiting for results
+5.104558229446411
+Processing simulation data
+Waiting for results
+5.155172824859619
+Processing simulation data
+Waiting for results
+5.2046568393707275
+Processing simulation data
+Waiting for results
+5.255042314529419
+Processing simulation data
+Waiting for results
+5.304427623748779
+Processing simulation data
+Waiting for results
+5.3548572063446045
+Processing simulation data
+Waiting for results
+5.405275583267212
+Processing simulation data
+Waiting for results
+5.45486855506897
+Processing simulation data
+Waiting for results
+5.505248069763184
+Processing simulation data
+Waiting for results
+5.554654121398926
+Processing simulation data
+Waiting for results
+5.605057954788208
+Processing simulation data
+Waiting for results
+5.654619216918945
+Processing simulation data
+Waiting for results
+5.704977989196777
+Processing simulation data
+Waiting for results
+5.755321741104126
+Processing simulation data
+Waiting for results
+5.8047637939453125
+Processing simulation data
+Waiting for results
+5.854396343231201
+Processing simulation data
+Waiting for results
+5.904811143875122
+Processing simulation data
+Waiting for results
+5.955239772796631
+Processing simulation data
+Waiting for results
+6.0047242641448975
+Processing simulation data
+Waiting for results
+6.054430246353149
+Processing simulation data
+Waiting for results
+6.105090379714966
+Processing simulation data
+Waiting for results
+6.15453028678894
+Processing simulation data
+Waiting for results
+6.204877853393555
+Processing simulation data
+Waiting for results
+6.255297899246216
+Processing simulation data
+Waiting for results
+6.305001974105835
+Processing simulation data
+Waiting for results
+6.35474705696106
+Processing simulation data
+Waiting for results
+6.4051196575164795
+Processing simulation data
+Waiting for results
+6.4546027183532715
+Processing simulation data
+Waiting for results
+6.505227327346802
+Processing simulation data
+Waiting for results
+6.554937362670898
+Processing simulation data
+Waiting for results
+6.604434013366699
+Processing simulation data
+Waiting for results
+6.654916286468506
+Processing simulation data
+Waiting for results
+6.704422950744629
+Processing simulation data
+Waiting for results
+6.754889011383057
+Processing simulation data
+Waiting for results
+6.80527925491333
+Processing simulation data
+Waiting for results
+6.8548431396484375
+Processing simulation data
+Waiting for results
+6.904436826705933
+Processing simulation data
+Waiting for results
+6.954881429672241
+Processing simulation data
+Waiting for results
+7.005306720733643
+Processing simulation data
+Waiting for results
+7.054786443710327
+Processing simulation data
+Waiting for results
+7.105278253555298
+Processing simulation data
+Waiting for results
+7.15476131439209
+Processing simulation data
+Waiting for results
+7.205304384231567
+Processing simulation data
+Waiting for results
+7.254769325256348
+Processing simulation data
+Waiting for results
+7.305341005325317
+Processing simulation data
+Waiting for results
+7.355120420455933
+Processing simulation data
+Waiting for results
+7.404575824737549
+Processing simulation data
+Waiting for results
+7.455121994018555
+Processing simulation data
+Waiting for results
+7.504878282546997
+Processing simulation data
+Waiting for results
+7.5545525550842285
+Processing simulation data
+Waiting for results
+7.6049487590789795
+Processing simulation data
+Waiting for results
+7.65442681312561
+Processing simulation data
+Waiting for results
+7.704951763153076
+Processing simulation data
+Waiting for results
+7.754737377166748
+Processing simulation data
+Waiting for results
+7.805188894271851
+Processing simulation data
+Waiting for results
+7.854695081710815
+Processing simulation data
+Waiting for results
+7.9052205085754395
+Processing simulation data
+Waiting for results
+7.954794645309448
+Processing simulation data
+Waiting for results
+8.004700183868408
+Processing simulation data
+Waiting for results
+8.055271625518799
+Processing simulation data
+Waiting for results
+8.104679107666016
+Processing simulation data
+Waiting for results
+8.155188798904419
+Processing simulation data
+Waiting for results
+8.204771757125854
+Processing simulation data
+Waiting for results
+8.255224227905273
+Processing simulation data
+Waiting for results
+8.304698944091797
+Processing simulation data
+Waiting for results
+8.354575634002686
+Processing simulation data
+Waiting for results
+8.405338764190674
+Processing simulation data
+Waiting for results
+8.455151557922363
+Processing simulation data
+Waiting for results
+8.504701375961304
+Processing simulation data
+Waiting for results
+8.554636716842651
+Processing simulation data
+Waiting for results
+8.604659080505371
+Processing simulation data
+Waiting for results
+8.654545545578003
+Processing simulation data
+Waiting for results
+8.704418659210205
+Processing simulation data
+Waiting for results
+8.75500774383545
+Processing simulation data
+Waiting for results
+8.8045015335083
+Processing simulation data
+Waiting for results
+8.855342626571655
+Processing simulation data
+Waiting for results
+8.904451370239258
+Processing simulation data
+Waiting for results
+8.95500373840332
+Processing simulation data
+Waiting for results
+9.004559516906738
+Processing simulation data
+Waiting for results
+9.055232763290405
+Processing simulation data
+Waiting for results
+9.105271816253662
+Processing simulation data
+Waiting for results
+9.154814004898071
+Processing simulation data
+Waiting for results
+9.204347610473633
+Processing simulation data
+Waiting for results
+9.25506067276001
+Processing simulation data
+Waiting for results
+9.304633378982544
+Processing simulation data
+Waiting for results
+9.35528039932251
+Processing simulation data
+Waiting for results
+9.404894828796387
+Processing simulation data
+Waiting for results
+9.454524755477905
+Processing simulation data
+Waiting for results
+9.505133152008057
+Processing simulation data
+Waiting for results
+9.554759740829468
+Processing simulation data
+Waiting for results
+9.604385375976562
+Processing simulation data
+Waiting for results
+9.655011177062988
+Processing simulation data
+Waiting for results
+9.704559326171875
+Processing simulation data
+Waiting for results
+9.755159139633179
+Processing simulation data
+Waiting for results
+9.804749488830566
+Processing simulation data
+Waiting for results
+9.85436749458313
+Processing simulation data
+Waiting for results
+9.904986143112183
+Processing simulation data
+Waiting for results
+9.954602241516113
+Processing simulation data
+Waiting for results
+10.005215167999268
+Processing simulation data
+
+{
+    valid = True
+    nsimulation = 0
+    time = 3.6531052589416504
+    fullresult = 
+    {
+        [0] = 
+        {
+            collision = False
+            isbreak = False
+            actorlist = 
+            {
+                [0] = 
+                {
+                    id = 200
+                    carlaid = 2846
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 28.8305606842041
+                            ty = 134.14871215820312
+                            tz = 369.62994384765625
+                            rx = 0.0
+                            ry = 0.3594045341014862
+                            rz = -74.34769439697266
+                        }
+                        [1] = 
+                        {
+                            tx = 31.626359939575195
+                            ty = 124.5497055053711
+                            tz = 369.55364990234375
+                            rx = 0.0
+                            ry = -0.8307217359542847
+                            rz = -73.42145538330078
+                        }
+                        [2] = 
+                        {
+                            tx = 33.2154541015625
+                            ty = 114.06017303466797
+                            tz = 369.57928466796875
+                            rx = 1.3340452298393757e-08
+                            ry = 0.3438931703567505
+                            rz = -73.59963989257812
+                        }
+                        [3] = 
+                        {
+                            tx = 36.204383850097656
+                            ty = 103.64749908447266
+                            tz = 369.6437683105469
+                            rx = 0.0
+                            ry = 0.3388729989528656
+                            rz = -74.69822692871094
+                        }
+                    }
+                    rol = ego_vehicle
+                }
+                [1] = 
+                {
+                    id = 401
+                    carlaid = 2847
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 15.792181015014648
+                            ty = 141.86790466308594
+                            tz = 371.380615234375
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [1] = 
+                        {
+                            tx = 16.062217712402344
+                            ty = 141.94967651367188
+                            tz = 370.3268737792969
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [2] = 
+                        {
+                            tx = 16.67854118347168
+                            ty = 142.12940979003906
+                            tz = 369.60382080078125
+                            rx = 0.0
+                            ry = -0.1525522619485855
+                            rz = 15.29681396484375
+                        }
+                        [3] = 
+                        {
+                            tx = 17.8179988861084
+                            ty = 142.43875122070312
+                            tz = 369.5745544433594
+                            rx = 0.0
+                            ry = -0.158999964594841
+                            rz = 14.033287048339844
+                        }
+                    }
+                    rol = vehicle
+                }
+                [2] = 
+                {
+                    id = 400
+                    carlaid = 2848
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 32.31655502319336
+                            ty = 117.00880432128906
+                            tz = 369.68463134765625
+                            rx = -1.3340455851107436e-08
+                            ry = 0.34578514099121094
+                            rz = -73.5196762084961
+                        }
+                        [1] = 
+                        {
+                            tx = 34.26024627685547
+                            ty = 110.41724395751953
+                            tz = 369.6023864746094
+                            rx = 1.3340452298393757e-08
+                            ry = 0.3438931703567505
+                            rz = -73.59963989257812
+                        }
+                        [2] = 
+                        {
+                            tx = 36.31789016723633
+                            ty = 103.25946044921875
+                            tz = 369.6461486816406
+                            rx = 0.0
+                            ry = 0.3388729989528656
+                            rz = -74.69822692871094
+                        }
+                        [3] = 
+                        {
+                            tx = 38.11943435668945
+                            ty = 96.03697967529297
+                            tz = 369.6890869140625
+                            rx = 0.0
+                            ry = 0.3368580937385559
+                            rz = -78.45325469970703
+                        }
+                    }
+                    rol = vehicle
+                }
+            }
+        }
+        [1] = 
+        {
+            collision = False
+            isbreak = False
+            actorlist = 
+            {
+                [0] = 
+                {
+                    id = 200
+                    carlaid = 2846
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 28.8305606842041
+                            ty = 134.14871215820312
+                            tz = 369.62994384765625
+                            rx = 0.0
+                            ry = 0.3594045341014862
+                            rz = -74.34769439697266
+                        }
+                        [1] = 
+                        {
+                            tx = 31.626359939575195
+                            ty = 124.5497055053711
+                            tz = 369.55364990234375
+                            rx = 0.0
+                            ry = -0.8307217359542847
+                            rz = -73.42145538330078
+                        }
+                        [2] = 
+                        {
+                            tx = 33.2154541015625
+                            ty = 114.06017303466797
+                            tz = 369.57928466796875
+                            rx = 1.3340452298393757e-08
+                            ry = 0.3438931703567505
+                            rz = -73.59963989257812
+                        }
+                        [3] = 
+                        {
+                            tx = 36.204383850097656
+                            ty = 103.64749908447266
+                            tz = 369.6437683105469
+                            rx = 0.0
+                            ry = 0.3388729989528656
+                            rz = -74.69822692871094
+                        }
+                    }
+                    rol = ego_vehicle
+                }
+                [1] = 
+                {
+                    id = 401
+                    carlaid = 2847
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 15.792181015014648
+                            ty = 141.86790466308594
+                            tz = 371.380615234375
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [1] = 
+                        {
+                            tx = 16.062217712402344
+                            ty = 141.94967651367188
+                            tz = 370.3268737792969
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [2] = 
+                        {
+                            tx = 16.67854118347168
+                            ty = 142.12940979003906
+                            tz = 369.60382080078125
+                            rx = 0.0
+                            ry = -0.1525522619485855
+                            rz = 15.29681396484375
+                        }
+                        [3] = 
+                        {
+                            tx = 17.8179988861084
+                            ty = 142.43875122070312
+                            tz = 369.5745544433594
+                            rx = 0.0
+                            ry = -0.158999964594841
+                            rz = 14.033287048339844
+                        }
+                    }
+                    rol = vehicle
+                }
+                [2] = 
+                {
+                    id = 400
+                    carlaid = 2848
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 32.31655502319336
+                            ty = 117.00880432128906
+                            tz = 369.68463134765625
+                            rx = -1.3340455851107436e-08
+                            ry = 0.34578514099121094
+                            rz = -73.5196762084961
+                        }
+                        [1] = 
+                        {
+                            tx = 34.26024627685547
+                            ty = 110.41724395751953
+                            tz = 369.6023864746094
+                            rx = 1.3340452298393757e-08
+                            ry = 0.3438931703567505
+                            rz = -73.59963989257812
+                        }
+                        [2] = 
+                        {
+                            tx = 36.31789016723633
+                            ty = 103.25946044921875
+                            tz = 369.6461486816406
+                            rx = 0.0
+                            ry = 0.3388729989528656
+                            rz = -74.69822692871094
+                        }
+                        [3] = 
+                        {
+                            tx = 38.11943435668945
+                            ty = 96.03697967529297
+                            tz = 369.6890869140625
+                            rx = 0.0
+                            ry = 0.3368580937385559
+                            rz = -78.45325469970703
+                        }
+                    }
+                    rol = vehicle
+                }
+            }
+        }
+        [2] = 
+        {
+            collision = False
+            isbreak = False
+            actorlist = 
+            {
+                [0] = 
+                {
+                    id = 200
+                    carlaid = 2846
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 28.8305606842041
+                            ty = 134.14871215820312
+                            tz = 369.62994384765625
+                            rx = 0.0
+                            ry = 0.3594045341014862
+                            rz = -74.34769439697266
+                        }
+                        [1] = 
+                        {
+                            tx = 31.626359939575195
+                            ty = 124.5497055053711
+                            tz = 369.55364990234375
+                            rx = 0.0
+                            ry = -0.8307217359542847
+                            rz = -73.42145538330078
+                        }
+                        [2] = 
+                        {
+                            tx = 33.2154541015625
+                            ty = 114.06017303466797
+                            tz = 369.57928466796875
+                            rx = 1.3340452298393757e-08
+                            ry = 0.3438931703567505
+                            rz = -73.59963989257812
+                        }
+                        [3] = 
+                        {
+                            tx = 36.204383850097656
+                            ty = 103.64749908447266
+                            tz = 369.6437683105469
+                            rx = 0.0
+                            ry = 0.3388729989528656
+                            rz = -74.69822692871094
+                        }
+                    }
+                    rol = ego_vehicle
+                }
+                [1] = 
+                {
+                    id = 401
+                    carlaid = 2847
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 15.792181015014648
+                            ty = 141.86790466308594
+                            tz = 371.380615234375
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [1] = 
+                        {
+                            tx = 16.062217712402344
+                            ty = 141.94967651367188
+                            tz = 370.3268737792969
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [2] = 
+                        {
+                            tx = 16.67854118347168
+                            ty = 142.12940979003906
+                            tz = 369.60382080078125
+                            rx = 0.0
+                            ry = -0.1525522619485855
+                            rz = 15.29681396484375
+                        }
+                        [3] = 
+                        {
+                            tx = 17.8179988861084
+                            ty = 142.43875122070312
+                            tz = 369.5745544433594
+                            rx = 0.0
+                            ry = -0.158999964594841
+                            rz = 14.033287048339844
+                        }
+                    }
+                    rol = vehicle
+                }
+                [2] = 
+                {
+                    id = 400
+                    carlaid = 2848
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 32.31655502319336
+                            ty = 117.00880432128906
+                            tz = 369.68463134765625
+                            rx = -1.3340455851107436e-08
+                            ry = 0.34578514099121094
+                            rz = -73.5196762084961
+                        }
+                        [1] = 
+                        {
+                            tx = 34.26024627685547
+                            ty = 110.41724395751953
+                            tz = 369.6023864746094
+                            rx = 1.3340452298393757e-08
+                            ry = 0.3438931703567505
+                            rz = -73.59963989257812
+                        }
+                        [2] = 
+                        {
+                            tx = 36.31789016723633
+                            ty = 103.25946044921875
+                            tz = 369.6461486816406
+                            rx = 0.0
+                            ry = 0.3388729989528656
+                            rz = -74.69822692871094
+                        }
+                        [3] = 
+                        {
+                            tx = 38.11943435668945
+                            ty = 96.03697967529297
+                            tz = 369.6890869140625
+                            rx = 0.0
+                            ry = 0.3368580937385559
+                            rz = -78.45325469970703
+                        }
+                    }
+                    rol = vehicle
+                }
+            }
+        }
+        [3] = 
+        {
+            collision = False
+            isbreak = False
+            actorlist = 
+            {
+                [0] = 
+                {
+                    id = 200
+                    carlaid = 2846
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 28.8305606842041
+                            ty = 134.14871215820312
+                            tz = 369.62994384765625
+                            rx = 0.0
+                            ry = 0.3594045341014862
+                            rz = -74.34769439697266
+                        }
+                        [1] = 
+                        {
+                            tx = 31.626359939575195
+                            ty = 124.5497055053711
+                            tz = 369.55364990234375
+                            rx = 0.0
+                            ry = -0.8307217359542847
+                            rz = -73.42145538330078
+                        }
+                        [2] = 
+                        {
+                            tx = 33.2154541015625
+                            ty = 114.06017303466797
+                            tz = 369.57928466796875
+                            rx = 1.3340452298393757e-08
+                            ry = 0.3438931703567505
+                            rz = -73.59963989257812
+                        }
+                        [3] = 
+                        {
+                            tx = 36.204383850097656
+                            ty = 103.64749908447266
+                            tz = 369.6437683105469
+                            rx = 0.0
+                            ry = 0.3388729989528656
+                            rz = -74.69822692871094
+                        }
+                    }
+                    rol = ego_vehicle
+                }
+                [1] = 
+                {
+                    id = 401
+                    carlaid = 2847
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 15.792181015014648
+                            ty = 141.86790466308594
+                            tz = 371.380615234375
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [1] = 
+                        {
+                            tx = 16.062217712402344
+                            ty = 141.94967651367188
+                            tz = 370.3268737792969
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [2] = 
+                        {
+                            tx = 16.67854118347168
+                            ty = 142.12940979003906
+                            tz = 369.60382080078125
+                            rx = 0.0
+                            ry = -0.1525522619485855
+                            rz = 15.29681396484375
+                        }
+                        [3] = 
+                        {
+                            tx = 17.8179988861084
+                            ty = 142.43875122070312
+                            tz = 369.5745544433594
+                            rx = 0.0
+                            ry = -0.158999964594841
+                            rz = 14.033287048339844
+                        }
+                    }
+                    rol = vehicle
+                }
+                [2] = 
+                {
+                    id = 400
+                    carlaid = 2848
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 32.31655502319336
+                            ty = 117.00880432128906
+                            tz = 369.68463134765625
+                            rx = -1.3340455851107436e-08
+                            ry = 0.34578514099121094
+                            rz = -73.5196762084961
+                        }
+                        [1] = 
+                        {
+                            tx = 34.26024627685547
+                            ty = 110.41724395751953
+                            tz = 369.6023864746094
+                            rx = 1.3340452298393757e-08
+                            ry = 0.3438931703567505
+                            rz = -73.59963989257812
+                        }
+                        [2] = 
+                        {
+                            tx = 36.31789016723633
+                            ty = 103.25946044921875
+                            tz = 369.6461486816406
+                            rx = 0.0
+                            ry = 0.3388729989528656
+                            rz = -74.69822692871094
+                        }
+                        [3] = 
+                        {
+                            tx = 38.11943435668945
+                            ty = 96.03697967529297
+                            tz = 369.6890869140625
+                            rx = 0.0
+                            ry = 0.3368580937385559
+                            rz = -78.45325469970703
+                        }
+                    }
+                    rol = vehicle
+                }
+            }
+        }
+        [4] = 
+        {
+            collision = False
+            isbreak = False
+            actorlist = 
+            {
+                [0] = 
+                {
+                    id = 200
+                    carlaid = 2846
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 28.8305606842041
+                            ty = 134.14871215820312
+                            tz = 369.62994384765625
+                            rx = 0.0
+                            ry = 0.3594045341014862
+                            rz = -74.34769439697266
+                        }
+                        [1] = 
+                        {
+                            tx = 31.626359939575195
+                            ty = 124.5497055053711
+                            tz = 369.55364990234375
+                            rx = 0.0
+                            ry = -0.8307217359542847
+                            rz = -73.42145538330078
+                        }
+                        [2] = 
+                        {
+                            tx = 33.2154541015625
+                            ty = 114.06017303466797
+                            tz = 369.57928466796875
+                            rx = 1.3340452298393757e-08
+                            ry = 0.3438931703567505
+                            rz = -73.59963989257812
+                        }
+                        [3] = 
+                        {
+                            tx = 36.204383850097656
+                            ty = 103.64749908447266
+                            tz = 369.6437683105469
+                            rx = 0.0
+                            ry = 0.3388729989528656
+                            rz = -74.69822692871094
+                        }
+                    }
+                    rol = ego_vehicle
+                }
+                [1] = 
+                {
+                    id = 401
+                    carlaid = 2847
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 15.792181015014648
+                            ty = 141.86790466308594
+                            tz = 371.380615234375
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [1] = 
+                        {
+                            tx = 16.062217712402344
+                            ty = 141.94967651367188
+                            tz = 370.3268737792969
+                            rx = 0.0
+                            ry = -0.1461455523967743
+                            rz = 16.56037712097168
+                        }
+                        [2] = 
+                        {
+                            tx = 16.67854118347168
+                            ty = 142.12940979003906
+                            tz = 369.60382080078125
+                            rx = 0.0
+                            ry = -0.1525522619485855
+                            rz = 15.29681396484375
+                        }
+                        [3] = 
+                        {
+                            tx = 17.8179988861084
+                            ty = 142.43875122070312
+                            tz = 369.5745544433594
+                            rx = 0.0
+                            ry = -0.158999964594841
+                            rz = 14.033287048339844
+                        }
+                    }
+                    rol = vehicle
+                }
+                [2] = 
+                {
+                    id = 400
+                    carlaid = 2848
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 32.31655502319336
+                            ty = 117.00880432128906
+                            tz = 369.68463134765625
+                            rx = -1.3340455851107436e-08
+                            ry = 0.34578514099121094
+                            rz = -73.5196762084961
+                        }
+                        [1] = 
+                        {
+                            tx = 34.26024627685547
+                            ty = 110.41724395751953
+                            tz = 369.6023864746094
+                            rx = 1.3340452298393757e-08
+                            ry = 0.3438931703567505
+                            rz = -73.59963989257812
+                        }
+                        [2] = 
+                        {
+                            tx = 36.31789016723633
+                            ty = 103.25946044921875
+                            tz = 369.6461486816406
+                            rx = 0.0
+                            ry = 0.3388729989528656
+                            rz = -74.69822692871094
+                        }
+                        [3] = 
+                        {
+                            tx = 38.11943435668945
+                            ty = 96.03697967529297
+                            tz = 369.6890869140625
+                            rx = 0.0
+                            ry = 0.3368580937385559
+                            rz = -78.45325469970703
+                        }
+                    }
+                    rol = vehicle
+                }
+            }
+        }
+    }
+}
+ERROR: 380.4506741378832
+Simulación erronea
+0
+ERROR: 380.4506741378832
+Simulación erronea
+0
+ERROR: 380.4506741378832
+Simulación erronea
+0
+ERROR: 380.4506741378832
+Simulación erronea
+0
+ERROR: 380.4506741378832
+Simulación erronea
+0
+10.054939985275269
+19.994784832000732 <class 'float'>
+Waiting for results
+10.104818344116211
+Processing simulation data
+Waiting for results
+10.15442180633545
+Processing simulation data
+Waiting for results
+10.204823017120361
+Processing simulation data
+Waiting for results
+10.255240440368652
+Processing simulation data
+Waiting for results
+10.304598093032837
+Processing simulation data
+Waiting for results
+10.355006456375122
+Processing simulation data
+Waiting for results
+10.404427766799927
+Processing simulation data
+Waiting for results
+10.454852104187012
+Processing simulation data
+Waiting for results
+10.505247592926025
+Processing simulation data
+Waiting for results
+10.554684400558472
+Processing simulation data
+Waiting for results
+10.605124235153198
+Processing simulation data
+Waiting for results
+10.654550552368164
+Processing simulation data
+Waiting for results
+10.704950332641602
+Processing simulation data
+Waiting for results
+10.75438666343689
+Processing simulation data
+Waiting for results
+10.804783344268799
+Processing simulation data
+Waiting for results
+10.855193376541138
+Processing simulation data
+Waiting for results
+10.904706716537476
+Processing simulation data
+Waiting for results
+10.955079317092896
+Processing simulation data
+Waiting for results
+11.004492998123169
+Processing simulation data
+Waiting for results
+11.054955005645752
+Processing simulation data
+Waiting for results
+11.104435443878174
+Processing simulation data
+Waiting for results
+11.154890298843384
+Processing simulation data
+Waiting for results
+11.20439624786377
+Processing simulation data
+Waiting for results
+11.254980325698853
+Processing simulation data
+Waiting for results
+11.304584980010986
+Processing simulation data
+Waiting for results
+11.35516881942749
+Processing simulation data
+Waiting for results
+11.404638767242432
+Processing simulation data
+Waiting for results
+11.455104351043701
+Processing simulation data
+Waiting for results
+11.504666805267334
+Processing simulation data
+Waiting for results
+11.554399013519287
+Processing simulation data
+Waiting for results
+11.604889154434204
+Processing simulation data
+Waiting for results
+11.654435873031616
+Processing simulation data
+Waiting for results
+11.7048499584198
+Processing simulation data
+Waiting for results
+11.755242586135864
+Processing simulation data
+Waiting for results
+11.804697275161743
+Processing simulation data
+Waiting for results
+11.855173349380493
+Processing simulation data
+Waiting for results
+11.904633283615112
+Processing simulation data
+Waiting for results
+11.955065488815308
+Processing simulation data
+Waiting for results
+12.004399061203003
+Processing simulation data
+Waiting for results
+12.05481505393982
+Processing simulation data
+Waiting for results
+12.105265140533447
+Processing simulation data
+Waiting for results
+12.15498423576355
+Processing simulation data
+Waiting for results
+12.204651594161987
+Processing simulation data
+Waiting for results
+12.255019187927246
+Processing simulation data
+Waiting for results
+12.30446195602417
+Processing simulation data
+Waiting for results
+12.355071544647217
+Processing simulation data
+Waiting for results
+12.404788255691528
+Processing simulation data
+Waiting for results
+12.455281257629395
+Processing simulation data
+Waiting for results
+12.504862785339355
+Processing simulation data
+Waiting for results
+12.55451774597168
+Processing simulation data
+Waiting for results
+12.605201482772827
+Processing simulation data
+Waiting for results
+12.654869556427002
+Processing simulation data
+Waiting for results
+12.70539140701294
+Processing simulation data
+Waiting for results
+12.754904985427856
+Processing simulation data
+Waiting for results
+12.804509401321411
+Processing simulation data
+Waiting for results
+12.85530424118042
+Processing simulation data
+Waiting for results
+12.904752731323242
+Processing simulation data
+Waiting for results
+12.955213785171509
+Processing simulation data
+Waiting for results
+13.004767894744873
+Processing simulation data
+Waiting for results
+13.05460786819458
+Processing simulation data
+Waiting for results
+13.105000972747803
+Processing simulation data
+Waiting for results
+13.154549837112427
+Processing simulation data
+Waiting for results
+13.205188512802124
+Processing simulation data
+Waiting for results
+13.2551429271698
+Processing simulation data
+Waiting for results
+13.304624319076538
+Processing simulation data
+Waiting for results
+13.355138301849365
+Processing simulation data
+Waiting for results
+13.404722452163696
+Processing simulation data
+Waiting for results
+13.454655647277832
+Processing simulation data
+Waiting for results
+13.5045907497406
+Processing simulation data
+Waiting for results
+13.555140256881714
+Processing simulation data
+Waiting for results
+13.604743003845215
+Processing simulation data
+Waiting for results
+13.654473543167114
+Processing simulation data
+Waiting for results
+13.704433917999268
+Processing simulation data
+Waiting for results
+13.754960060119629
+Processing simulation data
+Waiting for results
+13.804549217224121
+Processing simulation data
+Waiting for results
+13.85518479347229
+Processing simulation data
+Waiting for results
+13.905189514160156
+Processing simulation data
+Waiting for results
+13.954850196838379
+Processing simulation data
+Waiting for results
+14.004541158676147
+Processing simulation data
+Waiting for results
+14.055184841156006
+Processing simulation data
+Waiting for results
+14.105205774307251
+Processing simulation data
+Waiting for results
+14.154357671737671
+Processing simulation data
+Waiting for results
+14.204971075057983
+Processing simulation data
+Waiting for results
+14.254602909088135
+Processing simulation data
+Waiting for results
+14.305166244506836
+Processing simulation data
+Waiting for results
+14.355208158493042
+Processing simulation data
+Waiting for results
+14.405140161514282
+Processing simulation data
+Waiting for results
+14.4547278881073
+Processing simulation data
+Waiting for results
+14.505382061004639
+Processing simulation data
+Waiting for results
+14.55539608001709
+Processing simulation data
+Waiting for results
+14.604401350021362
+Processing simulation data
+Waiting for results
+14.654951810836792
+Processing simulation data
+Waiting for results
+14.70456051826477
+Processing simulation data
+Waiting for results
+14.755373239517212
+Processing simulation data
+Waiting for results
+14.804911613464355
+Processing simulation data
+Waiting for results
+14.854525089263916
+Processing simulation data
+Waiting for results
+14.905011415481567
+Processing simulation data
+Waiting for results
+14.954724311828613
+Processing simulation data
+Waiting for results
+15.004637956619263
+Processing simulation data
+
+{
+    valid = True
+    nsimulation = 0
+    time = 2.9565184116363525
+    fullresult = 
+    {
+        [0] = 
+        {
+            collision = False
+            isbreak = False
+            actorlist = 
+            {
+                [0] = 
+                {
+                    id = 200
+                    carlaid = 2879
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 33.18416976928711
+                            ty = 89.09584045410156
+                            tz = 369.7884216308594
+                            rx = -3.3351239547840805e-09
+                            ry = 0.37289416790008545
+                            rz = -166.34510803222656
+                        }
+                        [1] = 
+                        {
+                            tx = 24.567758560180664
+                            ty = 91.0450668334961
+                            tz = 369.7543029785156
+                            rx = 0.0
+                            ry = 0.33398255705833435
+                            rz = 127.46307373046875
+                        }
+                        [2] = 
+                        {
+                            tx = 22.54375648498535
+                            ty = 101.63575744628906
+                            tz = 369.7517395019531
+                            rx = 0.0
+                            ry = -0.3014230728149414
+                            rz = 106.0024185180664
+                        }
+                    }
+                    rol = ego_vehicle
+                }
+                [1] = 
+                {
+                    id = 401
+                    carlaid = 2880
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 14.216510772705078
+                            ty = 140.5581817626953
+                            tz = 370.3114318847656
+                            rx = 0.0
+                            ry = -0.14227283000946045
+                            rz = 17.032875061035156
+                        }
+                        [1] = 
+                        {
+                            tx = 18.593095779418945
+                            ty = 142.62901306152344
+                            tz = 369.5731201171875
+                            rx = 0.0
+                            ry = -0.16544082760810852
+                            rz = 13.427684783935547
+                        }
+                        [2] = 
+                        {
+                            tx = 24.055532455444336
+                            ty = 142.97686767578125
+                            tz = 369.5648498535156
+                            rx = 8.337645573952557e-10
+                            ry = -0.09896260499954224
+                            rz = -12.730854988098145
+                        }
+                    }
+                    rol = vehicle
+                }
+                [2] = 
+                {
+                    id = 400
+                    carlaid = 2880
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 14.216510772705078
+                            ty = 140.5581817626953
+                            tz = 370.3114318847656
+                            rx = 0.0
+                            ry = -0.14227283000946045
+                            rz = 17.032875061035156
+                        }
+                        [1] = 
+                        {
+                            tx = 18.593095779418945
+                            ty = 142.62901306152344
+                            tz = 369.5731201171875
+                            rx = 0.0
+                            ry = -0.16544082760810852
+                            rz = 13.427684783935547
+                        }
+                        [2] = 
+                        {
+                            tx = 24.055532455444336
+                            ty = 142.97686767578125
+                            tz = 369.5648498535156
+                            rx = 8.337645573952557e-10
+                            ry = -0.09896260499954224
+                            rz = -12.730854988098145
+                        }
+                    }
+                    rol = vehicle
+                }
+            }
+        }
+        [1] = 
+        {
+            collision = False
+            isbreak = False
+            actorlist = 
+            {
+                [0] = 
+                {
+                    id = 200
+                    carlaid = 2879
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 33.18416976928711
+                            ty = 89.09584045410156
+                            tz = 369.7884216308594
+                            rx = -3.3351239547840805e-09
+                            ry = 0.37289416790008545
+                            rz = -166.34510803222656
+                        }
+                        [1] = 
+                        {
+                            tx = 24.567758560180664
+                            ty = 91.0450668334961
+                            tz = 369.7543029785156
+                            rx = 0.0
+                            ry = 0.33398255705833435
+                            rz = 127.46307373046875
+                        }
+                        [2] = 
+                        {
+                            tx = 22.54375648498535
+                            ty = 101.63575744628906
+                            tz = 369.7517395019531
+                            rx = 0.0
+                            ry = -0.3014230728149414
+                            rz = 106.0024185180664
+                        }
+                    }
+                    rol = ego_vehicle
+                }
+                [1] = 
+                {
+                    id = 401
+                    carlaid = 2880
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 14.216510772705078
+                            ty = 140.5581817626953
+                            tz = 370.3114318847656
+                            rx = 0.0
+                            ry = -0.14227283000946045
+                            rz = 17.032875061035156
+                        }
+                        [1] = 
+                        {
+                            tx = 18.593095779418945
+                            ty = 142.62901306152344
+                            tz = 369.5731201171875
+                            rx = 0.0
+                            ry = -0.16544082760810852
+                            rz = 13.427684783935547
+                        }
+                        [2] = 
+                        {
+                            tx = 24.055532455444336
+                            ty = 142.97686767578125
+                            tz = 369.5648498535156
+                            rx = 8.337645573952557e-10
+                            ry = -0.09896260499954224
+                            rz = -12.730854988098145
+                        }
+                    }
+                    rol = vehicle
+                }
+                [2] = 
+                {
+                    id = 400
+                    carlaid = 2880
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 14.216510772705078
+                            ty = 140.5581817626953
+                            tz = 370.3114318847656
+                            rx = 0.0
+                            ry = -0.14227283000946045
+                            rz = 17.032875061035156
+                        }
+                        [1] = 
+                        {
+                            tx = 18.593095779418945
+                            ty = 142.62901306152344
+                            tz = 369.5731201171875
+                            rx = 0.0
+                            ry = -0.16544082760810852
+                            rz = 13.427684783935547
+                        }
+                        [2] = 
+                        {
+                            tx = 24.055532455444336
+                            ty = 142.97686767578125
+                            tz = 369.5648498535156
+                            rx = 8.337645573952557e-10
+                            ry = -0.09896260499954224
+                            rz = -12.730854988098145
+                        }
+                    }
+                    rol = vehicle
+                }
+            }
+        }
+        [2] = 
+        {
+            collision = False
+            isbreak = False
+            actorlist = 
+            {
+                [0] = 
+                {
+                    id = 200
+                    carlaid = 2879
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 33.18416976928711
+                            ty = 89.09584045410156
+                            tz = 369.7884216308594
+                            rx = -3.3351239547840805e-09
+                            ry = 0.37289416790008545
+                            rz = -166.34510803222656
+                        }
+                        [1] = 
+                        {
+                            tx = 24.567758560180664
+                            ty = 91.0450668334961
+                            tz = 369.7543029785156
+                            rx = 0.0
+                            ry = 0.33398255705833435
+                            rz = 127.46307373046875
+                        }
+                        [2] = 
+                        {
+                            tx = 22.54375648498535
+                            ty = 101.63575744628906
+                            tz = 369.7517395019531
+                            rx = 0.0
+                            ry = -0.3014230728149414
+                            rz = 106.0024185180664
+                        }
+                    }
+                    rol = ego_vehicle
+                }
+                [1] = 
+                {
+                    id = 401
+                    carlaid = 2880
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 14.216510772705078
+                            ty = 140.5581817626953
+                            tz = 370.3114318847656
+                            rx = 0.0
+                            ry = -0.14227283000946045
+                            rz = 17.032875061035156
+                        }
+                        [1] = 
+                        {
+                            tx = 18.593095779418945
+                            ty = 142.62901306152344
+                            tz = 369.5731201171875
+                            rx = 0.0
+                            ry = -0.16544082760810852
+                            rz = 13.427684783935547
+                        }
+                        [2] = 
+                        {
+                            tx = 24.055532455444336
+                            ty = 142.97686767578125
+                            tz = 369.5648498535156
+                            rx = 8.337645573952557e-10
+                            ry = -0.09896260499954224
+                            rz = -12.730854988098145
+                        }
+                    }
+                    rol = vehicle
+                }
+                [2] = 
+                {
+                    id = 400
+                    carlaid = 2880
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 14.216510772705078
+                            ty = 140.5581817626953
+                            tz = 370.3114318847656
+                            rx = 0.0
+                            ry = -0.14227283000946045
+                            rz = 17.032875061035156
+                        }
+                        [1] = 
+                        {
+                            tx = 18.593095779418945
+                            ty = 142.62901306152344
+                            tz = 369.5731201171875
+                            rx = 0.0
+                            ry = -0.16544082760810852
+                            rz = 13.427684783935547
+                        }
+                        [2] = 
+                        {
+                            tx = 24.055532455444336
+                            ty = 142.97686767578125
+                            tz = 369.5648498535156
+                            rx = 8.337645573952557e-10
+                            ry = -0.09896260499954224
+                            rz = -12.730854988098145
+                        }
+                    }
+                    rol = vehicle
+                }
+            }
+        }
+        [3] = 
+        {
+            collision = False
+            isbreak = False
+            actorlist = 
+            {
+                [0] = 
+                {
+                    id = 200
+                    carlaid = 2879
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 33.18416976928711
+                            ty = 89.09584045410156
+                            tz = 369.7884216308594
+                            rx = -3.3351239547840805e-09
+                            ry = 0.37289416790008545
+                            rz = -166.34510803222656
+                        }
+                        [1] = 
+                        {
+                            tx = 24.567758560180664
+                            ty = 91.0450668334961
+                            tz = 369.7543029785156
+                            rx = 0.0
+                            ry = 0.33398255705833435
+                            rz = 127.46307373046875
+                        }
+                        [2] = 
+                        {
+                            tx = 22.54375648498535
+                            ty = 101.63575744628906
+                            tz = 369.7517395019531
+                            rx = 0.0
+                            ry = -0.3014230728149414
+                            rz = 106.0024185180664
+                        }
+                    }
+                    rol = ego_vehicle
+                }
+                [1] = 
+                {
+                    id = 401
+                    carlaid = 2880
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 14.216510772705078
+                            ty = 140.5581817626953
+                            tz = 370.3114318847656
+                            rx = 0.0
+                            ry = -0.14227283000946045
+                            rz = 17.032875061035156
+                        }
+                        [1] = 
+                        {
+                            tx = 18.593095779418945
+                            ty = 142.62901306152344
+                            tz = 369.5731201171875
+                            rx = 0.0
+                            ry = -0.16544082760810852
+                            rz = 13.427684783935547
+                        }
+                        [2] = 
+                        {
+                            tx = 24.055532455444336
+                            ty = 142.97686767578125
+                            tz = 369.5648498535156
+                            rx = 8.337645573952557e-10
+                            ry = -0.09896260499954224
+                            rz = -12.730854988098145
+                        }
+                    }
+                    rol = vehicle
+                }
+                [2] = 
+                {
+                    id = 400
+                    carlaid = 2880
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 14.216510772705078
+                            ty = 140.5581817626953
+                            tz = 370.3114318847656
+                            rx = 0.0
+                            ry = -0.14227283000946045
+                            rz = 17.032875061035156
+                        }
+                        [1] = 
+                        {
+                            tx = 18.593095779418945
+                            ty = 142.62901306152344
+                            tz = 369.5731201171875
+                            rx = 0.0
+                            ry = -0.16544082760810852
+                            rz = 13.427684783935547
+                        }
+                        [2] = 
+                        {
+                            tx = 24.055532455444336
+                            ty = 142.97686767578125
+                            tz = 369.5648498535156
+                            rx = 8.337645573952557e-10
+                            ry = -0.09896260499954224
+                            rz = -12.730854988098145
+                        }
+                    }
+                    rol = vehicle
+                }
+            }
+        }
+        [4] = 
+        {
+            collision = False
+            isbreak = False
+            actorlist = 
+            {
+                [0] = 
+                {
+                    id = 200
+                    carlaid = 2879
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 33.18416976928711
+                            ty = 89.09584045410156
+                            tz = 369.7884216308594
+                            rx = -3.3351239547840805e-09
+                            ry = 0.37289416790008545
+                            rz = -166.34510803222656
+                        }
+                        [1] = 
+                        {
+                            tx = 24.567758560180664
+                            ty = 91.0450668334961
+                            tz = 369.7543029785156
+                            rx = 0.0
+                            ry = 0.33398255705833435
+                            rz = 127.46307373046875
+                        }
+                        [2] = 
+                        {
+                            tx = 22.54375648498535
+                            ty = 101.63575744628906
+                            tz = 369.7517395019531
+                            rx = 0.0
+                            ry = -0.3014230728149414
+                            rz = 106.0024185180664
+                        }
+                    }
+                    rol = ego_vehicle
+                }
+                [1] = 
+                {
+                    id = 401
+                    carlaid = 2880
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 14.216510772705078
+                            ty = 140.5581817626953
+                            tz = 370.3114318847656
+                            rx = 0.0
+                            ry = -0.14227283000946045
+                            rz = 17.032875061035156
+                        }
+                        [1] = 
+                        {
+                            tx = 18.593095779418945
+                            ty = 142.62901306152344
+                            tz = 369.5731201171875
+                            rx = 0.0
+                            ry = -0.16544082760810852
+                            rz = 13.427684783935547
+                        }
+                        [2] = 
+                        {
+                            tx = 24.055532455444336
+                            ty = 142.97686767578125
+                            tz = 369.5648498535156
+                            rx = 8.337645573952557e-10
+                            ry = -0.09896260499954224
+                            rz = -12.730854988098145
+                        }
+                    }
+                    rol = vehicle
+                }
+                [2] = 
+                {
+                    id = 400
+                    carlaid = 2880
+                    pose = 
+                    {
+                        [0] = 
+                        {
+                            tx = 14.216510772705078
+                            ty = 140.5581817626953
+                            tz = 370.3114318847656
+                            rx = 0.0
+                            ry = -0.14227283000946045
+                            rz = 17.032875061035156
+                        }
+                        [1] = 
+                        {
+                            tx = 18.593095779418945
+                            ty = 142.62901306152344
+                            tz = 369.5731201171875
+                            rx = 0.0
+                            ry = -0.16544082760810852
+                            rz = 13.427684783935547
+                        }
+                        [2] = 
+                        {
+                            tx = 24.055532455444336
+                            ty = 142.97686767578125
+                            tz = 369.5648498535156
+                            rx = 8.337645573952557e-10
+                            ry = -0.09896260499954224
+                            rz = -12.730854988098145
+                        }
+                    }
+                    rol = vehicle
+                }
+            }
+        }
+    }
+}
+ERROR: 355.46630546106735
+Simulación erronea
+0
+ERROR: 355.46630546106735
+Simulación erronea
+0
+ERROR: 355.46630546106735
+Simulación erronea
+0
+ERROR: 355.46630546106735
+Simulación erronea
+0
+ERROR: 355.46630546106735
+Simulación erronea
+0
+15.055238246917725
+14.995362043380737 <class 'float'>
+Waiting for results
+15.105223417282104
+Processing simulation data
+Waiting for results
+15.154887914657593
+Processing simulation data
+Waiting for results
+15.204458236694336
+Processing simulation data
+Waiting for results
+15.254902124404907
+Processing simulation data
+Waiting for results
+15.30526876449585
+Processing simulation data
+Waiting for results
+15.354674577713013
+Processing simulation data
+Waiting for results
+15.405084371566772
+Processing simulation data
+Waiting for results
+15.454435586929321
+Processing simulation data
+Waiting for results
+15.504839420318604
+Processing simulation data
+Waiting for results
+15.555291891098022
+Processing simulation data
+Waiting for results
+15.60483717918396
+Processing simulation data
+Waiting for results
+15.655207633972168
+Processing simulation data
+Waiting for results
+15.704670429229736
+Processing simulation data
+Waiting for results
+15.755021333694458
+Processing simulation data
+Waiting for results
+15.804349184036255
+Processing simulation data
+Waiting for results
+15.854679822921753
+Processing simulation data
+Waiting for results
+15.905029058456421
+Processing simulation data
+Waiting for results
+15.954572200775146
+Processing simulation data
+Waiting for results
+16.005141258239746
+Processing simulation data
+Waiting for results
+16.054805755615234
+Processing simulation data
+Waiting for results
+16.10522985458374
+Processing simulation data
+Waiting for results
+16.155146837234497
+Processing simulation data
+Waiting for results
+16.20485496520996
+Processing simulation data
+Waiting for results
+16.25457525253296
+Processing simulation data
+Waiting for results
+16.30499005317688
+Processing simulation data
+Waiting for results
+16.35461115837097
+Processing simulation data
+Waiting for results
+16.405242443084717
+Processing simulation data
+Waiting for results
+16.4545795917511
+Processing simulation data
+Waiting for results
+[37;1m2022-06-06 17:40:30.528 [33;1m[[37;1mRTPS_LIVELINESS[33;1m Warning] [37mWriter 01.0f.1b.26.05.5a.a1.33.01.00.00.00|0.0.3.3 not found.[34;1m -> Function [36mremove_local_writer[m
+[37;1m2022-06-06 17:40:30.528 [33;1m[[37;1mRTPS_LIVELINESS[33;1m Warning] [37mWriter 01.0f.1b.26.05.5a.a1.33.01.00.00.00|0.0.4.3 not found.[34;1m -> Function [36mremove_local_writer[m
+[37;1m2022-06-06 17:40:30.528 [33;1m[[37;1mRTPS_LIVELINESS[33;1m Warning] [37mWriter 01.0f.1b.26.05.5a.a1.33.01.00.00.00|0.0.1.3 not found.[34;1m -> Function [36mremove_local_writer[m
+[37;1m2022-06-06 17:40:30.528 [33;1m[[37;1mRTPS_LIVELINESS[33;1m Warning] [37mWriter 01.0f.1b.26.05.5a.a1.33.01.00.00.00|0.0.2.3 not found.[34;1m -> Function [36mremove_local_writer[m

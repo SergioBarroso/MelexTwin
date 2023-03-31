@@ -1,0 +1,392 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+#
+#    Copyright (C) 2022 by YOUR NAME HERE
+#
+#    This file is part of RoboComp
+#
+#    RoboComp is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    RoboComp is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with RoboComp.  If not, see <http://www.gnu.org/licenses/>.
+#
+
+from PySide2.QtCore import QTimer
+from PySide2.QtWidgets import QApplication
+from rich.console import Console
+from genericworker import *
+from APIManager import *
+sys.path.append('/opt/robocomp/lib')
+console = Console(highlight=False)
+import time
+from pydsr import *
+
+
+class SpecificWorker(GenericWorker):
+    def __init__(self, proxy_map, startup_check=False):
+        super(SpecificWorker, self).__init__(proxy_map)
+        self.Period = 2000
+
+        self.agent_id = 666
+        self.g = DSRGraph(0, "api_communicator", self.agent_id)
+        try:
+            signals.connect(self.g, signals.UPDATE_NODE_ATTR, self.update_node_att)
+            signals.connect(self.g, signals.UPDATE_NODE, self.update_node)
+            signals.connect(self.g, signals.DELETE_NODE, self.delete_node)
+            signals.connect(self.g, signals.UPDATE_EDGE, self.update_edge)
+            signals.connect(self.g, signals.UPDATE_EDGE_ATTR, self.update_edge_att)
+            signals.connect(self.g, signals.DELETE_EDGE, self.delete_edge)
+            console.print("signals connected")
+        except RuntimeError as e:
+            print(e)
+
+        if startup_check:
+            self.startup_check()
+        else:
+            self.timer.timeout.connect(self.compute)
+            self.timer.start(self.Period)
+
+        self.paradas = {
+            '1': [4747.0, 19000.0],
+            '2': [2810.0, 19100.0],
+            '3': [-789.0, -37713.0],
+            '4': [10596.0, -38619.0]
+        }
+
+        ###############API LOGIC#############
+        self.task_inprogress = []
+        self.task_received = []
+        self.n_cars = 2
+        self.cars = {}
+        # self.free_cars = [APIMng('Melex' + str(i + 1)) for i in range(self.n_cars)]
+        self.cars = {}
+        for i in range(self.n_cars):
+            print("entra")
+            self.cars['Melex'+str(i+1)] = {"Estado": "waitingRequest", "Manager": APIMng('Melex'+str(i+1))}
+
+        print("COCHES LIBRES", self.cars)
+        self.free_cars = []
+
+
+
+        #Comprobación de tareas activas y borrado de las mismas
+        list_task, ret = self.cars["Melex1"]["Manager"].get_all_tasks() #Comprueba si hay tarea en progreso
+        task_data = {
+            'state': "complete",
+            'car': None
+        }
+        if ret:
+            for t in list_task:
+                print("TAREA EN TAREAS", t)
+                self.cars["Melex1"]["Manager"].requests_put_json(task_data, t['id'])
+                self.cars["Melex1"]["Manager"].delete_tasks()
+        else:
+            print("NO HAY TAREAS EN COLA")
+
+        #time.sleep(1)
+
+
+
+
+    def __del__(self):
+        """Destructor"""
+        pass
+
+    def setParams(self, params):
+        return True
+
+    @QtCore.Slot()
+    def compute(self):
+        # Update cars
+
+        # Get
+        #TODO: actualizar estado coche al llegar al destino  
+        self.update_cars_info()  # ACTUALIZAMOS INFORMACION MELEX EN API
+        for key in self.cars.keys():
+            print(key, self.cars[key]["Estado"])
+        self.task_inprogress, self.task_received = self.get_server_tasks()
+        print("self.task_inprogress", self.task_inprogress)
+        print("self.task_received", self.task_received)
+        if len(self.task_inprogress) > 0:
+            for progress in self.task_inprogress:
+                self.insert_stop_coords(progress)
+        if len(self.task_received) > 0:
+            for received in self.task_received:
+                for key in self.cars.keys():
+                    if self.cars[key]["Estado"] == "waitingRequest":
+                        self.insert_pickup_coords(received, key[5])
+                        task_data = {
+                                    'state': "progress",
+                                    'car': key
+                                }
+                        self.cars[key]["Manager"].requests_put_json(task_data, received['id'])
+                        self.cars[key]["Manager"].put_requests_api()
+                        self.cars[key]["Estado"] = "goPickupStop"
+                        break
+
+        self.set_waiting_state()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        # TODO : Actualizar grafo para que el nodo robot se llame con el nombre del vehículo,
+        #        y además sea un tipo específico.
+        # task_data = {
+        #     'state': "complete",
+        #     'car': "Melex1"
+        # }
+        # self.melex1.requests_put_json(task_data, '23')
+        # self.melex1.put_requests_api()
+
+        '''
+        cars = self.free_cars + self.bussy_cars
+        for c in cars:
+            c.create_ParametersCCAA_json(self.read_G())
+            c.put_ParametersCCAA_api()
+
+        undo_tasks =
+        '''
+
+        # self.update_cars_info() # ACTUALIZAMOS INFORMACION MELEX EN API
+        #
+        #
+        # undo_tasks = self.get_requests_tasks() # Obtenemos todas las tareas recibidas
+        #
+        #
+        # ############GESTION FLOTA###############
+        #
+        # self.task_inprogress, ret = self.cars["Melex1"]["Manager"].task_progress()  # TODO : logica varios coches
+        # print("PROGRESS TASK", len(self.task_inprogress))
+        # print("UNDO TASK", len(undo_tasks))
+        # # No car available
+        # if len(self.task_inprogress) == len(self.cars):
+        #     print("RET")
+        #
+        #
+        # elif len(self.task_inprogress) <= len(self.cars) and len(undo_tasks) != 0:
+        #     for key in self.cars.keys():
+        #         if len(undo_tasks) == 0:
+        #             break
+        #         if self.cars[key]["Estado"] == "waitingRequest":
+        #             self.insert_pickup_coords(undo_tasks[0], key[5])
+        #             task_data = {
+        #                         'state': "progress",
+        #                         'car': key
+        #                     }
+        #             self.cars[key]["Manager"].requests_put_json(task_data, undo_tasks[0]['id'])
+        #             self.cars[key]["Manager"].put_requests_api()
+        #             self.cars[key]["Estado"] = "goPickupStop"
+        #             undo_tasks.pop(0)
+        # self.task_inprogress, ret = self.cars["Melex1"]["Manager"].task_progress()
+        # for key in self.cars.keys():
+        #     self.insert_stop_coords(self.task_inprogress)
+
+        # if ret:
+        #     self.insert_stop_coords(self.task_inprogress)
+        #     print("RET")
+        # else:
+        #     undo_tasks = self.melex1.get_requests_api()
+        #     print('UNDO', undo_tasks)
+        #     self.task_inprogress = undo_tasks[0]
+        #     self.insert_pickup_coords(self.task_inprogress, 1)
+        #     task_data = {
+        #         'state': "progress",
+        #         'car': "Melex1"
+        #     }
+        #     self.melex1.requests_put_json(task_data, self.task_inprogress['id'])
+        #     self.melex1.put_requests_api()
+        #     self.state = "goPickupStop"
+
+        ############ Comprobar estado vehículos##########
+
+        # for key in self.cars.keys():
+        #     if self.cars[key]["Estado"] == "waitingRequest":
+        #         self.tasks_inprogress.append(undo_tasks[0])
+        #         self.insert_pickup_coords(undo_tasks[0], key[5])
+        #         task_data = {
+        #                     'state': "progress",
+        #                     'car': key
+        #                 }
+        #         self.cars[key]["Manager"].requests_put_json(task_data, undo_tasks[0]['id'])
+        #         self.cars[key]["Manager"].put_requests_api()
+        #         self.cars[key]["Estado"] = "goPickupStop"
+        #         undo_tasks.pop(0)
+        #     else:
+
+
+
+
+        #     self.insert_pickup_coords(self.task_inprogress, 1)
+        #     task_data = {
+        #         'state': "progress",
+        #         'car': "Melex1"
+        #     }
+        #     self.melex1.requests_put_json(task_data, self.task_inprogress['id'])
+        #     self.melex1.put_requests_api()
+        #     self.state = "goPickupStop"
+
+        ########### Seleccionar vehículo ############
+
+
+        ############ASIGNAR TAREAS A VEHÍCULO ##################
+
+
+        # _, ret = self.melex1.task_progress()  # TODO : logica varios coches
+        # if ret:
+        #     self.insert_stop_coords(self.task_inprogress)
+        #     print("RET")
+        # else:
+        #     undo_tasks = self.melex1.get_requests_api()
+        #     print('UNDO', undo_tasks)
+        #     self.task_inprogress = undo_tasks[0]
+        #     self.insert_pickup_coords(self.task_inprogress, 1)
+        #     task_data = {
+        #         'state': "progress",
+        #         'car': "Melex1"
+        #     }
+        #     self.melex1.requests_put_json(task_data, self.task_inprogress['id'])
+        #     self.melex1.put_requests_api()
+        #     self.state = "goPickupStop"
+
+        return True
+
+    def startup_check(self):
+        QTimer.singleShot(200, QApplication.instance().quit)
+
+    def read_G(self, key):
+        name = "robot_"+key[5]
+        robot = self.g.get_node(name)
+        task = self.g.get_node('task')
+        bateria = self.g.get_node('battery')
+        gps = self.g.get_node('gps')
+        odometry = self.g.get_node("odometry")
+        # nombre = "Melex1"
+        data = {
+            "lat": gps.attrs["gps_latitude"].value if gps else "error",
+            "lng": gps.attrs["gps_longitude"].value if gps else "error",
+            "speed": odometry.attrs['odometry_vel'].value if odometry else -1,
+            "battery": int(bateria.attrs['battery_load'].value) if bateria else -1,
+            "busy": robot.attrs['robot_occupied'].value if robot else "error",
+            "state": self.cars[key]["Estado"]
+        }
+        return data
+
+    def insert_pickup_coords(self, task_new, car):
+        pickup_coords = self.paradas[task_new['pickupStop']]
+        if mind := self.g.get_node('mind_'+car):
+            if (task := self.g.get_node('task_'+car)) is None:
+                task = Node(self.agent_id, "task", "task_"+car)
+                task.attrs['task_assigned'] = Attribute(True, self.agent_id)
+                task.attrs['task_car'] = Attribute(int(car), self.agent_id)
+                task.attrs['task_pickup_values'] = Attribute(list(pickup_coords), self.agent_id)
+                task.attrs['task_completed'] = Attribute(False, self.agent_id)
+                task.attrs['task_movement'] = Attribute(True, self.agent_id)
+                self.g.insert_node(task)
+                task_edge = Edge(mind.id, task.id, 'has', self.agent_id)
+                self.g.insert_or_assign_edge(task_edge)
+            else:
+                print("NODE TASK EXISTS")
+        else:
+            print("No node Mind")
+
+    def insert_stop_coords(self, task_new):
+        print(task_new)
+        arrival_coords = self.paradas[task_new['arrivalStop']]
+        if robot := self.g.get_node('robot_'+str(task_new['car'][5])):
+            # robot.attrs['robot_occupied'].value = True # Poner en otra función
+            # self.g.update_node(robot)
+            task_to_change = self.g.get_node('task_' + str(task_new['car'][5]))
+            if task_to_change is not None:
+                if not task_to_change.attrs['task_movement'].value and not task_to_change.attrs['task_completed'].value and robot.attrs['robot_occupied'].value:
+                    task_to_change.attrs['task_destination_values'] = Attribute(list(arrival_coords), self.agent_id)
+                    self.g.update_node(task_to_change)
+                    self.cars["Melex"+str(task_new['car'][5])]["Estado"] = "goArrivalStop"
+                else:
+                    print("Car is not ready to move")
+            else:
+                task_data = {
+                    'state': "complete",
+                    'car': "Melex"+str(task_new['car'][5])
+                }
+                self.cars["Melex"+str(task_new['car'][5])]["Manager"].requests_put_json(task_data, task_new['id'])
+                self.cars["Melex"+str(task_new['car'][5])]["Manager"].put_requests_api()
+                self.cars["Melex"+str(task_new['car'][5])]["Estado"] = "finishTravel"
+                print("Task Node does not exist")
+        else:
+            print("Robot Node does not exist")
+
+    def task_state(self, name = 'robot'): # TODO: Create JSON for set task state
+        pass
+
+    def task_manager(self, tasks):
+        pass
+
+    def set_waiting_state(self):
+        for key in self.cars.keys():
+            if robot := self.g.get_node('robot_' + str(key[5])):
+                if robot.attrs['robot_occupied'].value == False and self.cars[key]["Estado"] == "finishTravel":
+                    self.cars[key]["Estado"] = "waitingRequest"
+
+    def update_cars_info(self):
+        for key in self.cars.keys():
+            self.cars[key]["Manager"].create_ParametersCCAA_json(self.read_G(key))
+            self.cars[key]["Manager"].put_ParametersCCAA_api()
+
+    def get_server_tasks(self):
+        undo_tasks = self.cars["Melex1"]["Manager"].get_requests_api()
+        tasks_progress = self.cars["Melex1"]["Manager"].task_progress()
+
+        return tasks_progress, undo_tasks
+    # DSR SLOTS
+    def update_node_att(self, id: int, attribute_names: [str]):
+        # console.print(f"UPDATE NODE ATT: {id} {attribute_names}", style='green')
+        pass
+
+    def update_node(self, id: int, type: str):
+        # console.print(f"UPDATE NODE: {id} {type}", style='green')
+        pass
+
+    def delete_node(self, id: int):
+        # console.print(f"DELETE NODE:: {id} ", style='green')
+        pass
+
+    def update_edge(self, fr: int, to: int, type: str):
+        # console.print(f"UPDATE EDGE: {fr} to {type}", type, style='green')
+        pass
+
+    def update_edge_att(self, fr: int, to: int, type: str, attribute_names: [str]):
+        # console.print(f"UPDATE EDGE ATT: {fr} to {type} {attribute_names}", style='green')
+        pass
+
+    def delete_edge(self, fr: int, to: int, type: str):
+        # console.print(f"DELETE EDGE: {fr} to {type} {type}", style='green')
+        pass

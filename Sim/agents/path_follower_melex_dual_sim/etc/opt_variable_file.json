@@ -1,0 +1,40 @@
+{
+    "advance_gaussian_cut_x": {
+        "initial_value": 0.5,
+        "last_step": 0.05000000074505806,
+        "last_value": 0.8500000834465027,
+        "max": 1.0,
+        "min": 0.30000001192092896,
+        "step": 0.05000000074505806
+    },
+    "advance_gaussian_cut_y": {
+        "initial_value": 0.5,
+        "last_step": 0.05000000074505806,
+        "last_value": 0.4500000476837158,
+        "max": 1.0,
+        "min": 0.30000001192092896,
+        "step": 0.05000000074505806
+    },
+    "error": {
+        "accumulated_angular_acceleration": 3.992640256881714,
+        "accumulated_lineal_acceleration": 18.459463119506836,
+        "accumulated_path_distance": 2236.0,
+        "traveled_distance": 1648.5274658203125
+    },
+    "lookahead_distance": {
+        "initial_value": 800.0,
+        "last_step": -50.0,
+        "last_value": 800.0,
+        "max": 3000.0,
+        "min": 100.0,
+        "step": 50.0
+    },
+    "rotation_gain": {
+        "initial_value": 0.8000000715255737,
+        "last_step": 0.05000000074505806,
+        "last_value": 0.7007099986076355,
+        "max": 1.2000000476837158,
+        "min": 0.30000001192092896,
+        "step": 0.05000000074505806
+    }
+}

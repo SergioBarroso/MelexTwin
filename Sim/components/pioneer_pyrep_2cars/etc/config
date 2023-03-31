@@ -1,0 +1,29 @@
+# Endpoints for implements interfaces
+BatteryStatus.Endpoints=tcp -p 10014
+CameraRGBDSimple.Endpoints=tcp -p 10096
+DifferentialRobot.Endpoints=tcp -p 10800
+FullPoseEstimation.Endpoints=tcp -p 10216
+RSSIStatus.Endpoints=tcp -p 10016
+Ultrasound.Endpoints=tcp -p 10017
+Laser.Endpoints=tcp -p 11003
+CoppeliaUtils.Endpoints = tcp -p 10666
+GpsUblox.Endpoints=tcp -p 11112
+GpsUbloxMulti.Endpoints=tcp -p 1111
+CameraRGBDSimpleMulti.Endpoints=tcp -p 15458
+DifferentialRobotMulti.Endpoints=tcp -p 16021
+FullPoseEstimationMulti.Endpoints=tcp -p 14321
+LaserMulti.Endpoints=tcp -p 11438
+
+# Endpoints for subscriptions interfaces
+JoystickAdapterTopic.Endpoints=tcp -p 13100
+
+# This property is used by the clients to connect to IceStorm.
+TopicManager.Proxy=IceStorm/TopicManager:default -p 9999
+
+Ice.MessageSizeMax=20004800
+Ice.Warn.Connections=0
+Ice.Trace.Network=0
+Ice.Trace.Protocol=0
+
+
+
